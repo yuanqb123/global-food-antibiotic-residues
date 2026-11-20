@@ -1,0 +1,712 @@
+file,field,dtype,unit,definition
+ADI_additional_sources.csv,drug,str,,drug
+ADI_additional_sources.csv,ADI_ugkg_bw_day,float64,µg/kg body weight/day,Drug-specific acceptable daily intake used in the analysis.
+ADI_additional_sources.csv,authority,str,,authority
+ADI_additional_sources.csv,year,int64,,year
+ADI_additional_sources.csv,original_ADI,str,,original ADI
+ADI_additional_sources.csv,endpoint,str,,endpoint
+ADI_additional_sources.csv,scope,str,,scope
+ADI_additional_sources.csv,source_url,str,,source url
+ADI_additional_sources.csv,note,str,,note
+ADI_source_inventory.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+ADI_source_inventory.csv,ADI_ugkg_bw_day,float64,µg/kg body weight/day,Drug-specific acceptable daily intake used in the analysis.
+ADI_source_inventory.csv,source_url,str,,source url
+ADI_source_inventory.csv,note,str,,note
+ADI_source_inventory.csv,authority,str,,authority
+ADI_source_inventory.csv,evaluation_year,float64,,evaluation year
+ADI_source_inventory.csv,unit,str,,unit
+clinical_all_country_matches.csv,Organism,str,,Organism
+clinical_all_country_matches.csv,OrganismId,int64,,OrganismId
+clinical_all_country_matches.csv,AntimicrobialId,int64,,AntimicrobialId
+clinical_all_country_matches.csv,Antimicrobial,str,,Antimicrobial
+clinical_all_country_matches.csv,CountryId,int64,,CountryId
+clinical_all_country_matches.csv,CountryName,str,,CountryName
+clinical_all_country_matches.csv,ISO3,str,,ISO3
+clinical_all_country_matches.csv,code,str,,code
+clinical_all_country_matches.csv,year,int64,,year
+clinical_all_country_matches.csv,Source,str,,Source
+clinical_all_country_matches.csv,Notes,str,,Notes
+clinical_all_country_matches.csv,IsolatesTested,float64,,IsolatesTested
+clinical_all_country_matches.csv,value,int64,,value
+clinical_all_country_matches.csv,CILow,str,,CILow
+clinical_all_country_matches.csv,CIHigh,str,,CIHigh
+clinical_all_country_matches.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+clinical_all_country_matches.csv,positive_count,float64,,positive count
+clinical_all_country_matches.csv,sample_size,float64,,sample size
+clinical_all_country_matches.csv,n_units,int64,,n units
+clinical_all_country_matches.csv,n_studies,int64,,n studies
+clinical_all_country_matches.csv,n_DOI,int64,,n DOI
+clinical_all_country_matches.csv,n_countries,int64,,n countries
+clinical_all_country_matches.csv,n_frames,int64,,n frames
+clinical_all_country_matches.csv,unclear_denominator_units,int64,,unclear denominator units
+clinical_all_country_matches.csv,raw_analyte_test_rate,float64,,raw analyte test rate
+clinical_all_country_matches.csv,interval_note,str,,interval note
+clinical_all_country_matches.csv,food_detection_pct,float64,,food detection pct
+clinical_resistance_components.csv,Organism,str,,Organism
+clinical_resistance_components.csv,OrganismId,int64,,OrganismId
+clinical_resistance_components.csv,AntimicrobialId,int64,,AntimicrobialId
+clinical_resistance_components.csv,Antimicrobial,str,,Antimicrobial
+clinical_resistance_components.csv,CountryId,int64,,CountryId
+clinical_resistance_components.csv,CountryName,str,,CountryName
+clinical_resistance_components.csv,ISO3,str,,ISO3
+clinical_resistance_components.csv,code,str,,code
+clinical_resistance_components.csv,year,int64,,year
+clinical_resistance_components.csv,Source,str,,Source
+clinical_resistance_components.csv,Notes,str,,Notes
+clinical_resistance_components.csv,IsolatesTested,str,,IsolatesTested
+clinical_resistance_components.csv,value,int64,,value
+clinical_resistance_components.csv,CILow,str,,CILow
+clinical_resistance_components.csv,CIHigh,str,,CIHigh
+clinical_resistance_matches.csv,species,str,,species
+clinical_resistance_matches.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+clinical_resistance_matches.csv,food_detection_pct,float64,,food detection pct
+clinical_resistance_matches.csv,resistance_pct,float64,,resistance pct
+clinical_resistance_matches.csv,AMR_year,float64,,AMR year
+clinical_resistance_matches.csv,metric,str,,metric
+clinical_resistance_matches.csv,third_generation_cephalosporins_pct,float64,,third generation cephalosporins pct
+clinical_resistance_matches.csv,fluoroquinolones_pct,float64,,fluoroquinolones pct
+clinical_resistance_matches.csv,source,str,,source
+clinical_resistance_matches.csv,isolates_tested,float64,,isolates tested
+concentration_map_display.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+concentration_map_display.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+concentration_map_display.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+concentration_map_display.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+concentration_map_display.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+concentration_map_display.csv,city,str,,city
+concentration_map_display.csv,food_group,str,category,One of six animal-source-food categories.
+concentration_map_display.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+concentration_map_display.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+concentration_map_display.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+concentration_map_display.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+concentration_map_display.csv,map_location_level,str,,map location level
+concentration_map_display.csv,coordinate_source,str,,coordinate source
+concentration_map_display.csv,coordinate_precision,str,,coordinate precision
+concentration_map_display.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+concentration_map_display.csv,display_longitude_beautified,float64,degrees east,"Frozen, small graphical offset only; not an inferred sample location."
+concentration_map_display.csv,display_latitude_beautified,float64,degrees north,"Frozen, small graphical offset only; not an inferred sample location."
+concentration_map_display.csv,display_bin,int64,ordinal0–6,Original seven detection/concentration classes; plotting does not recalculate threshold definitions.
+concentration_statistics.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+concentration_statistics.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+concentration_statistics.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+concentration_statistics.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+concentration_statistics.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+concentration_statistics.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+concentration_statistics.csv,city,str,,city
+concentration_statistics.csv,food_group,str,category,One of six animal-source-food categories.
+concentration_statistics.csv,food_class_std,str,,food class std
+concentration_statistics.csv,species_std,str,,species std
+concentration_statistics.csv,tissue_std,str,,tissue std
+concentration_statistics.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+concentration_statistics.csv,antibiotic_class_std,str,,antibiotic class std
+concentration_statistics.csv,antibiotic_class_broad,str,,antibiotic class broad
+concentration_statistics.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+concentration_statistics.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+concentration_statistics.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+concentration_statistics.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+concentration_statistics.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+concentration_statistics.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+concentration_statistics.csv,map_location_level,str,,map location level
+concentration_statistics.csv,coordinate_source,str,,coordinate source
+concentration_statistics.csv,coordinate_precision,str,,coordinate precision
+concentration_statistics.csv,quantitative_eligible,bool,,quantitative eligible
+concentration_statistics.csv,risk_source_eligible,bool,,risk source eligible
+concentration_statistics.csv,sampling_design,str,,sampling design
+concentration_statistics.csv,sample_source,str,,sample source
+concentration_statistics.csv,analytical_method,str,,analytical method
+concentration_statistics.csv,source_unit_caution,object,,source unit caution
+country_AMR_mortality_categories.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+country_AMR_mortality_categories.csv,panel,str,,panel
+country_AMR_mortality_categories.csv,ordinal_bin,float64,,ordinal bin
+country_AMR_mortality_categories.csv,legend_interval_per_100k,str,,legend interval per 100k
+country_AMR_mortality_categories.csv,large_country_visual_sensitivity,bool,,large country visual sensitivity
+country_AMR_mortality_categories.csv,source_doi,str,,source doi
+country_AMR_mortality_categories.csv,source_note,str,,source note
+country_AMR_mortality_categories.csv,positive_count,float64,,positive count
+country_AMR_mortality_categories.csv,sample_size,float64,,sample size
+country_AMR_mortality_categories.csv,n_units,int64,,n units
+country_AMR_mortality_categories.csv,n_studies,int64,,n studies
+country_AMR_mortality_categories.csv,n_DOI,int64,,n DOI
+country_AMR_mortality_categories.csv,n_countries,int64,,n countries
+country_AMR_mortality_categories.csv,n_frames,int64,,n frames
+country_AMR_mortality_categories.csv,unclear_denominator_units,int64,,unclear denominator units
+country_AMR_mortality_categories.csv,raw_analyte_test_rate,float64,,raw analyte test rate
+country_AMR_mortality_categories.csv,interval_note,str,,interval note
+country_AMR_mortality_categories.csv,adjusted_occurrence_exploratory,float64,,adjusted occurrence exploratory
+country_AMR_mortality_categories.csv,GDP_per_capita_current_USD,float64,current USD/person,GDP per capita; log1p_z; all
+country_AMR_mortality_categories.csv,human_total_DDD_per_1000_day,float64,DDD/1000 people/day,Human antibiotic consumption; raw_z; all
+country_foodborne_burden.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+country_foodborne_burden.csv,positive_count,float64,,positive count
+country_foodborne_burden.csv,sample_size,float64,,sample size
+country_foodborne_burden.csv,n_units,int64,,n units
+country_foodborne_burden.csv,n_studies,int64,,n studies
+country_foodborne_burden.csv,n_DOI,int64,,n DOI
+country_foodborne_burden.csv,n_countries,int64,,n countries
+country_foodborne_burden.csv,n_frames,int64,,n frames
+country_foodborne_burden.csv,unclear_denominator_units,int64,,unclear denominator units
+country_foodborne_burden.csv,raw_analyte_test_rate,float64,,raw analyte test rate
+country_foodborne_burden.csv,interval_note,str,,interval note
+country_foodborne_burden.csv,foodborne_DALY_rate_100k,float64,,foodborne DALY rate 100k
+country_foodborne_burden.csv,foodborne_DALY_rate_100k_lower,float64,,foodborne DALY rate 100k lower
+country_foodborne_burden.csv,foodborne_DALY_rate_100k_upper,float64,,foodborne DALY rate 100k upper
+country_foodborne_burden.csv,foodborne_death_rate_100k,float64,,foodborne death rate 100k
+country_foodborne_burden.csv,foodborne_death_rate_100k_lower,float64,,foodborne death rate 100k lower
+country_foodborne_burden.csv,foodborne_death_rate_100k_upper,float64,,foodborne death rate 100k upper
+country_foodborne_burden.csv,residue_all_years_rate,float64,,residue all years rate
+country_foodborne_covariates.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+country_foodborne_covariates.csv,positive_count,float64,,positive count
+country_foodborne_covariates.csv,sample_size,float64,,sample size
+country_foodborne_covariates.csv,n_units,int64,,n units
+country_foodborne_covariates.csv,n_studies,int64,,n studies
+country_foodborne_covariates.csv,n_DOI,int64,,n DOI
+country_foodborne_covariates.csv,n_countries,int64,,n countries
+country_foodborne_covariates.csv,n_frames,int64,,n frames
+country_foodborne_covariates.csv,unclear_denominator_units,int64,,unclear denominator units
+country_foodborne_covariates.csv,raw_analyte_test_rate,float64,,raw analyte test rate
+country_foodborne_covariates.csv,interval_note,str,,interval note
+country_foodborne_covariates.csv,foodborne_DALY_rate_100k,float64,,foodborne DALY rate 100k
+country_foodborne_covariates.csv,foodborne_DALY_rate_100k_lower,float64,,foodborne DALY rate 100k lower
+country_foodborne_covariates.csv,foodborne_DALY_rate_100k_upper,float64,,foodborne DALY rate 100k upper
+country_foodborne_covariates.csv,foodborne_death_rate_100k,float64,,foodborne death rate 100k
+country_foodborne_covariates.csv,foodborne_death_rate_100k_lower,float64,,foodborne death rate 100k lower
+country_foodborne_covariates.csv,foodborne_death_rate_100k_upper,float64,,foodborne death rate 100k upper
+country_foodborne_covariates.csv,residue_all_years_rate,float64,,residue all years rate
+country_foodborne_covariates.csv,adjusted_occurrence_exploratory,float64,,adjusted occurrence exploratory
+country_foodborne_covariates.csv,GDP_per_capita_current_USD,float64,current USD/person,GDP per capita; log1p_z; all
+country_foodborne_covariates.csv,meat_tonnes_per_1000_people,float64,,meat tonnes per 1000 people
+country_foodborne_covariates.csv,TrACSS_vet_regulatory_stage_score,float64,ordinal score,Veterinary regulatory implementation; raw_z; all
+country_foodborne_covariates.csv,reported_AMU_kg,float64,,reported AMU kg
+country_foodborne_covariates.csv,modelled_AMU_mgPCU,float64,,modelled AMU mgPCU
+country_foodborne_covariates.csv,continent,str,,continent
+country_income_analysis.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+country_income_analysis.csv,k,float64,,k
+country_income_analysis.csv,n,float64,,n
+country_income_analysis.csv,n_sources,int64,,n sources
+country_income_analysis.csv,value,float64,,value
+country_income_analysis.csv,income_group,str,,income group
+country_income_analysis.csv,income_code,str,,income code
+country_income_analysis.csv,source_url,str,,source url
+country_income_analysis.csv,classification_snapshot,str,,classification snapshot
+country_income_analysis.csv,endpoint,str,,endpoint
+country_income_analysis.csv,n_statistics,float64,,n statistics
+country_income_classification.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+country_income_classification.csv,income_group,str,,income group
+country_income_classification.csv,income_code,str,,income code
+country_income_classification.csv,source_url,str,,source url
+country_income_classification.csv,classification_snapshot,str,,classification snapshot
+dairy_meat_concentration.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+dairy_meat_concentration.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+dairy_meat_concentration.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+dairy_meat_concentration.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+dairy_meat_concentration.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+dairy_meat_concentration.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+dairy_meat_concentration.csv,city,str,,city
+dairy_meat_concentration.csv,food_group,str,category,One of six animal-source-food categories.
+dairy_meat_concentration.csv,food_class_std,str,,food class std
+dairy_meat_concentration.csv,species_std,str,,species std
+dairy_meat_concentration.csv,tissue_std,str,,tissue std
+dairy_meat_concentration.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+dairy_meat_concentration.csv,antibiotic_class_std,str,,antibiotic class std
+dairy_meat_concentration.csv,antibiotic_class_broad,str,,antibiotic class broad
+dairy_meat_concentration.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+dairy_meat_concentration.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+dairy_meat_concentration.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+dairy_meat_concentration.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+dairy_meat_concentration.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+dairy_meat_concentration.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+dairy_meat_concentration.csv,map_location_level,str,,map location level
+dairy_meat_concentration.csv,coordinate_source,str,,coordinate source
+dairy_meat_concentration.csv,coordinate_precision,str,,coordinate precision
+dairy_meat_concentration.csv,quantitative_eligible,bool,,quantitative eligible
+dairy_meat_concentration.csv,risk_source_eligible,bool,,risk source eligible
+dairy_meat_concentration.csv,sampling_design,str,,sampling design
+dairy_meat_concentration.csv,sample_source,str,,sample source
+dairy_meat_concentration.csv,analytical_method,str,,analytical method
+dairy_meat_concentration.csv,display_region,str,,display region
+dairy_meat_detection.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+dairy_meat_detection.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+dairy_meat_detection.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+dairy_meat_detection.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+dairy_meat_detection.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+dairy_meat_detection.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+dairy_meat_detection.csv,city,str,,city
+dairy_meat_detection.csv,food_group,str,category,One of six animal-source-food categories.
+dairy_meat_detection.csv,food_class_std,str,,food class std
+dairy_meat_detection.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+dairy_meat_detection.csv,antibiotic_class_std,str,,antibiotic class std
+dairy_meat_detection.csv,antibiotic_class_broad,str,,antibiotic class broad
+dairy_meat_detection.csv,statistic_id,int64,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+dairy_meat_detection.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+dairy_meat_detection.csv,coordinate_source,str,,coordinate source
+dairy_meat_detection.csv,coordinate_precision,str,,coordinate precision
+dairy_meat_detection.csv,sample_size_n,float64,analyte tests,Valid denominator for the corresponding antibiotic and sampling stratum.
+dairy_meat_detection.csv,positive_count_n,float64,positive analyte tests,"Numerator k, constrained to0≤k≤n."
+dairy_meat_detection.csv,rate,float64,proportion0–1,k/n; descriptive pooled rates use sum(k)/sum(n).
+dairy_meat_detection.csv,display_region,str,,display region
+dairy_meat_intake.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+dairy_meat_intake.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+dairy_meat_intake.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+dairy_meat_intake.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+dairy_meat_intake.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+dairy_meat_intake.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+dairy_meat_intake.csv,city,str,,city
+dairy_meat_intake.csv,food_group,str,category,One of six animal-source-food categories.
+dairy_meat_intake.csv,food_class_std,str,,food class std
+dairy_meat_intake.csv,species_std,str,,species std
+dairy_meat_intake.csv,tissue_std,str,,tissue std
+dairy_meat_intake.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+dairy_meat_intake.csv,antibiotic_class_std,str,,antibiotic class std
+dairy_meat_intake.csv,antibiotic_class_broad,str,,antibiotic class broad
+dairy_meat_intake.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+dairy_meat_intake.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+dairy_meat_intake.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+dairy_meat_intake.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+dairy_meat_intake.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+dairy_meat_intake.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+dairy_meat_intake.csv,map_location_level,str,,map location level
+dairy_meat_intake.csv,coordinate_source,str,,coordinate source
+dairy_meat_intake.csv,coordinate_precision,str,,coordinate precision
+dairy_meat_intake.csv,quantitative_eligible,bool,,quantitative eligible
+dairy_meat_intake.csv,risk_source_eligible,bool,,risk source eligible
+dairy_meat_intake.csv,sampling_design,str,,sampling design
+dairy_meat_intake.csv,sample_source,str,,sample source
+dairy_meat_intake.csv,analytical_method,str,,analytical method
+dairy_meat_intake.csv,display_region,str,,display region
+dairy_meat_intake.csv,RQ_res,float64,unitless,Frozen reference exploratory resistance-selection quotient; recomputed RQ=C×IR/(Qcolon×F×PNEC).
+dairy_meat_intake.csv,HQ_same_mean,float64,,HQ same mean
+dairy_meat_intake.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+dated_positive_means.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+dated_positive_means.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+dated_positive_means.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+dated_positive_means.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+dated_positive_means.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+dated_positive_means.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+dated_positive_means.csv,city,str,,city
+dated_positive_means.csv,food_group,str,category,One of six animal-source-food categories.
+dated_positive_means.csv,food_class_std,str,,food class std
+dated_positive_means.csv,species_std,str,,species std
+dated_positive_means.csv,tissue_std,str,,tissue std
+dated_positive_means.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+dated_positive_means.csv,antibiotic_class_std,str,,antibiotic class std
+dated_positive_means.csv,antibiotic_class_broad,str,,antibiotic class broad
+dated_positive_means.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+dated_positive_means.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+dated_positive_means.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+dated_positive_means.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+dated_positive_means.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+dated_positive_means.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+dated_positive_means.csv,map_location_level,str,,map location level
+dated_positive_means.csv,coordinate_source,str,,coordinate source
+dated_positive_means.csv,coordinate_precision,str,,coordinate precision
+dated_positive_means.csv,quantitative_eligible,bool,,quantitative eligible
+dated_positive_means.csv,risk_source_eligible,bool,,risk source eligible
+dated_positive_means.csv,sampling_design,str,,sampling design
+dated_positive_means.csv,sample_source,str,,sample source
+dated_positive_means.csv,analytical_method,str,,analytical method
+dated_positive_means.csv,GBD_super_region,str,,GBD super region
+detection_map_display.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+detection_map_display.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+detection_map_display.csv,city,str,,city
+detection_map_display.csv,food_group,str,category,One of six animal-source-food categories.
+detection_map_display.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+detection_map_display.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+detection_map_display.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+detection_map_display.csv,map_location_level,str,,map location level
+detection_map_display.csv,coordinate_source,str,,coordinate source
+detection_map_display.csv,sample_size_n,float64,analyte tests,Valid denominator for the corresponding antibiotic and sampling stratum.
+detection_map_display.csv,positive_count_n,float64,positive analyte tests,"Numerator k, constrained to0≤k≤n."
+detection_map_display.csv,rate,float64,proportion0–1,k/n; descriptive pooled rates use sum(k)/sum(n).
+detection_map_display.csv,display_longitude_beautified,float64,degrees east,"Frozen, small graphical offset only; not an inferred sample location."
+detection_map_display.csv,display_latitude_beautified,float64,degrees north,"Frozen, small graphical offset only; not an inferred sample location."
+detection_map_display.csv,display_bin,int64,ordinal0–6,Original seven detection/concentration classes; plotting does not recalculate threshold definitions.
+governance_joint_risk_trigger_input.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+governance_joint_risk_trigger_input.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+governance_joint_risk_trigger_input.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+governance_joint_risk_trigger_input.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+governance_joint_risk_trigger_input.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+governance_joint_risk_trigger_input.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+governance_joint_risk_trigger_input.csv,sampling_year_start,float64,,sampling year start
+governance_joint_risk_trigger_input.csv,sampling_year_end,float64,,sampling year end
+governance_joint_risk_trigger_input.csv,food_group,str,category,One of six animal-source-food categories.
+governance_joint_risk_trigger_input.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+governance_joint_risk_trigger_input.csv,antibiotic_class_broad,str,,antibiotic class broad
+governance_joint_risk_trigger_input.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+governance_joint_risk_trigger_input.csv,sample_source,str,,sample source
+governance_joint_risk_trigger_input.csv,analytical_method,str,,analytical method
+governance_joint_risk_trigger_input.csv,sampling_design,str,,sampling design
+governance_joint_risk_trigger_input.csv,MRL_path_assessed,bool,,MRL path assessed
+governance_joint_risk_trigger_input.csv,available_path_attention_trigger,bool,binary0/1,Available-pathway flag: any evaluable HQ>0.1 or matched C/MRL>1. Unevaluated pathways are not proven safe.
+governance_joint_risk_trigger_input.csv,WGI_pair_complete,bool,,WGI pair complete
+governance_joint_risk_trigger_input.csv,WGI_Government_Effectiveness,float64,WGI estimate,Government effectiveness; raw_z; all
+governance_joint_risk_trigger_input.csv,WGI_Control_of_Corruption,float64,WGI estimate,Control of corruption; raw_z; all
+governance_joint_risk_trigger_input.csv,GDP_per_capita_current_USD,float64,current USD/person,GDP per capita; log1p_z; all
+governance_joint_risk_trigger_input.csv,access_to_electricity_pct,float64,percent,Electricity access; raw_z; all
+governance_joint_risk_trigger_input.csv,safely_managed_sanitation_pct,float64,percent,Safe sanitation; raw_z; all
+governance_joint_risk_trigger_input.csv,safely_managed_drinking_water_pct,float64,percent,Safe drinking water; raw_z; all
+governance_joint_risk_trigger_input.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+governance_joint_risk_trigger_input.csv,production_intensity_proxy,float64,tonnes per 1000 people,Food production per 1000 people; log1p_z; all
+governance_joint_risk_trigger_input.csv,rural_population_pct,float64,percent,Rural population share; raw_z; all
+governance_joint_risk_trigger_input.csv,agriculture_value_added_pct_GDP,float64,percent GDP,Agricultural value added; raw_z; all
+governance_occurrence_input.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+governance_occurrence_input.csv,statistic_id,int64,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+governance_occurrence_input.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+governance_occurrence_input.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+governance_occurrence_input.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+governance_occurrence_input.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+governance_occurrence_input.csv,sampling_year_start,float64,,sampling year start
+governance_occurrence_input.csv,sampling_year_end,float64,,sampling year end
+governance_occurrence_input.csv,food_group,str,category,One of six animal-source-food categories.
+governance_occurrence_input.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+governance_occurrence_input.csv,antibiotic_class_broad,str,,antibiotic class broad
+governance_occurrence_input.csv,sample_source,str,,sample source
+governance_occurrence_input.csv,analytical_method,str,,analytical method
+governance_occurrence_input.csv,sampling_design,str,,sampling design
+governance_occurrence_input.csv,positive_count_n,float64,positive analyte tests,"Numerator k, constrained to0≤k≤n."
+governance_occurrence_input.csv,sample_size_n,float64,analyte tests,Valid denominator for the corresponding antibiotic and sampling stratum.
+governance_occurrence_input.csv,WGI_pair_complete,bool,,WGI pair complete
+governance_occurrence_input.csv,WGI_Government_Effectiveness,float64,WGI estimate,Government effectiveness; raw_z; all
+governance_occurrence_input.csv,WGI_Control_of_Corruption,float64,WGI estimate,Control of corruption; raw_z; all
+governance_occurrence_input.csv,GDP_per_capita_current_USD,float64,current USD/person,GDP per capita; log1p_z; all
+governance_occurrence_input.csv,access_to_electricity_pct,float64,percent,Electricity access; raw_z; all
+governance_occurrence_input.csv,safely_managed_sanitation_pct,float64,percent,Safe sanitation; raw_z; all
+governance_occurrence_input.csv,safely_managed_drinking_water_pct,float64,percent,Safe drinking water; raw_z; all
+governance_occurrence_input.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+governance_occurrence_input.csv,production_intensity_proxy,float64,tonnes per 1000 people,Food production per 1000 people; log1p_z; all
+governance_occurrence_input.csv,rural_population_pct,float64,percent,Rural population share; raw_z; all
+governance_occurrence_input.csv,agriculture_value_added_pct_GDP,float64,percent GDP,Agricultural value added; raw_z; all
+governance_RQ_res_input.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+governance_RQ_res_input.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+governance_RQ_res_input.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+governance_RQ_res_input.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+governance_RQ_res_input.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+governance_RQ_res_input.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+governance_RQ_res_input.csv,sampling_year_start,float64,,sampling year start
+governance_RQ_res_input.csv,sampling_year_end,float64,,sampling year end
+governance_RQ_res_input.csv,food_group,str,category,One of six animal-source-food categories.
+governance_RQ_res_input.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+governance_RQ_res_input.csv,antibiotic_class_broad,str,,antibiotic class broad
+governance_RQ_res_input.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+governance_RQ_res_input.csv,sample_source,str,,sample source
+governance_RQ_res_input.csv,analytical_method,str,,analytical method
+governance_RQ_res_input.csv,sampling_design,str,,sampling design
+governance_RQ_res_input.csv,MRL_path_assessed,bool,,MRL path assessed
+governance_RQ_res_input.csv,available_path_attention_trigger,object,binary0/1,Available-pathway flag: any evaluable HQ>0.1 or matched C/MRL>1. Unevaluated pathways are not proven safe.
+governance_RQ_res_input.csv,RQ_res,float64,unitless,Frozen reference exploratory resistance-selection quotient; recomputed RQ=C×IR/(Qcolon×F×PNEC).
+governance_RQ_res_input.csv,WGI_pair_complete,bool,,WGI pair complete
+governance_RQ_res_input.csv,WGI_Government_Effectiveness,float64,WGI estimate,Government effectiveness; raw_z; all
+governance_RQ_res_input.csv,WGI_Control_of_Corruption,float64,WGI estimate,Control of corruption; raw_z; all
+governance_RQ_res_input.csv,GDP_per_capita_current_USD,float64,current USD/person,GDP per capita; log1p_z; all
+governance_RQ_res_input.csv,access_to_electricity_pct,float64,percent,Electricity access; raw_z; all
+governance_RQ_res_input.csv,safely_managed_sanitation_pct,float64,percent,Safe sanitation; raw_z; all
+governance_RQ_res_input.csv,safely_managed_drinking_water_pct,float64,percent,Safe drinking water; raw_z; all
+governance_RQ_res_input.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+governance_RQ_res_input.csv,production_intensity_proxy,float64,tonnes per 1000 people,Food production per 1000 people; log1p_z; all
+governance_RQ_res_input.csv,rural_population_pct,float64,percent,Rural population share; raw_z; all
+governance_RQ_res_input.csv,agriculture_value_added_pct_GDP,float64,percent GDP,Agricultural value added; raw_z; all
+HQ_all_sample_means.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+HQ_all_sample_means.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+HQ_all_sample_means.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+HQ_all_sample_means.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+HQ_all_sample_means.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+HQ_all_sample_means.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+HQ_all_sample_means.csv,city,str,,city
+HQ_all_sample_means.csv,food_group,str,category,One of six animal-source-food categories.
+HQ_all_sample_means.csv,food_class_std,str,,food class std
+HQ_all_sample_means.csv,species_std,str,,species std
+HQ_all_sample_means.csv,tissue_std,str,,tissue std
+HQ_all_sample_means.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+HQ_all_sample_means.csv,antibiotic_class_std,str,,antibiotic class std
+HQ_all_sample_means.csv,antibiotic_class_broad,str,,antibiotic class broad
+HQ_all_sample_means.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+HQ_all_sample_means.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+HQ_all_sample_means.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+HQ_all_sample_means.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+HQ_all_sample_means.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+HQ_all_sample_means.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+HQ_all_sample_means.csv,map_location_level,str,,map location level
+HQ_all_sample_means.csv,coordinate_source,str,,coordinate source
+HQ_all_sample_means.csv,coordinate_precision,str,,coordinate precision
+HQ_all_sample_means.csv,quantitative_eligible,bool,,quantitative eligible
+HQ_all_sample_means.csv,risk_source_eligible,bool,,risk source eligible
+HQ_all_sample_means.csv,sampling_design,str,,sampling design
+HQ_all_sample_means.csv,sample_source,str,,sample source
+HQ_all_sample_means.csv,analytical_method,str,,analytical method
+HQ_all_sample_means.csv,ADI_ugkg_bw_day,float64,µg/kg body weight/day,Drug-specific acceptable daily intake used in the analysis.
+HQ_all_sample_means.csv,source_url,str,,source url
+HQ_all_sample_means.csv,authority,str,,authority
+HQ_all_sample_means.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+HQ_all_sample_means.csv,BW_kg,float64,kg,Assumed adult body weight; primary60kg.
+HQ_all_sample_means.csv,HQ_current,float64,unitless,Frozen reference dietary quotient; recalculated HQ=C×IR/(BW×ADI).
+HQ_MRL_model_input.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+HQ_MRL_model_input.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+HQ_MRL_model_input.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+HQ_MRL_model_input.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+HQ_MRL_model_input.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+HQ_MRL_model_input.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+HQ_MRL_model_input.csv,food_group,str,category,One of six animal-source-food categories.
+HQ_MRL_model_input.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+HQ_MRL_model_input.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+HQ_MRL_model_input.csv,sample_source,str,,sample source
+HQ_MRL_model_input.csv,analytical_method,str,,analytical method
+HQ_MRL_model_input.csv,sampling_design,str,,sampling design
+HQ_MRL_model_input.csv,tissue_std,str,,tissue std
+HQ_MRL_model_input.csv,antibiotic_class_broad,str,,antibiotic class broad
+HQ_MRL_model_input.csv,map_location_level,str,,map location level
+HQ_MRL_model_input.csv,marker_match,str,,marker match
+HQ_MRL_model_input.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+HQ_MRL_model_input.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+HQ_MRL_model_input.csv,available_path_attention_trigger,bool,binary0/1,Available-pathway flag: any evaluable HQ>0.1 or matched C/MRL>1. Unevaluated pathways are not proven safe.
+HQ_MRL_model_input.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+HQ_MRL_model_input.csv,reported_vet_AMU_kg_food_scope,float64,kg,Reported veterinary antimicrobial use; log1p_z; all
+HQ_MRL_model_input.csv,modelled_2020_vet_AMU_mg_PCU,float64,mg/PCU,Modelled veterinary use in 2020; raw_z; all
+HQ_MRL_model_input.csv,EMA_vet_AMU_mg_PCU,float64,mg/PCU,EMA veterinary antimicrobial intensity; raw_z; all
+HQ_MRL_model_input.csv,production_intensity_proxy,float64,tonnes per 1000 people,Food production per 1000 people; log1p_z; all
+HQ_MRL_model_input.csv,aquaculture_production_tonnes,float64,tonnes,Aquaculture production; log1p_z; aquatic products only
+HQ_MRL_model_input.csv,aquaculture_share_pct,float64,percent,Aquaculture share; raw_z; aquatic products only
+HQ_MRL_model_input.csv,TrACSS_vet_regulatory_stage_score,float64,ordinal score,Veterinary regulatory implementation; raw_z; all
+HQ_MRL_model_input.csv,GDP_per_capita_current_USD,float64,current USD/person,GDP per capita; log1p_z; all
+HQ_MRL_model_input.csv,rural_population_pct,float64,percent,Rural population share; raw_z; all
+HQ_MRL_model_input.csv,agriculture_value_added_pct_GDP,float64,percent GDP,Agricultural value added; raw_z; all
+HQ_MRL_model_input.csv,access_to_electricity_pct,float64,percent,Electricity access; raw_z; all
+HQ_MRL_model_input.csv,safely_managed_drinking_water_pct,float64,percent,Safe drinking water; raw_z; all
+HQ_MRL_model_input.csv,safely_managed_sanitation_pct,float64,percent,Safe sanitation; raw_z; all
+HQ_MRL_model_input.csv,human_total_DDD_per_1000_day,float64,DDD/1000 people/day,Human antibiotic consumption; raw_z; all
+HQ_MRL_model_input.csv,freshwater_withdrawal_stress_pct,float64,percent,Freshwater withdrawal stress; log1p_z; aquatic products only
+HQ_MRL_model_input.csv,WGI_Government_Effectiveness,float64,WGI estimate,Government effectiveness; raw_z; all
+HQ_MRL_model_input.csv,WGI_Control_of_Corruption,float64,WGI estimate,Control of corruption; raw_z; all
+HQ_positive_means.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+HQ_positive_means.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+HQ_positive_means.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+HQ_positive_means.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+HQ_positive_means.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+HQ_positive_means.csv,food_group,str,category,One of six animal-source-food categories.
+HQ_positive_means.csv,species_std,str,,species std
+HQ_positive_means.csv,tissue_std,str,,tissue std
+HQ_positive_means.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+HQ_positive_means.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+HQ_positive_means.csv,BW_kg,float64,kg,Assumed adult body weight; primary60kg.
+HQ_positive_means.csv,ADI_ugkg_bw_day,float64,µg/kg body weight/day,Drug-specific acceptable daily intake used in the analysis.
+HQ_positive_means.csv,HQ_current,float64,unitless,Frozen reference dietary quotient; recalculated HQ=C×IR/(BW×ADI).
+HQ_positive_means.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+HQ_positive_means.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+HQ_positive_means.csv,plot_latitude,float64,,plot latitude
+HQ_positive_means.csv,plot_longitude,float64,,plot longitude
+HQ_positive_means.csv,coordinate_source,str,,coordinate source
+HQ_positive_means.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+measurement_covariates.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+measurement_covariates.csv,sample_source,str,,sample source
+measurement_covariates.csv,analytical_method,str,,analytical method
+measurement_covariates.csv,sampling_design,str,,sampling design
+MRL_mean_statistics.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+MRL_mean_statistics.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+MRL_mean_statistics.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+MRL_mean_statistics.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+MRL_mean_statistics.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+MRL_mean_statistics.csv,food_group,str,category,One of six animal-source-food categories.
+MRL_mean_statistics.csv,species_std,str,,species std
+MRL_mean_statistics.csv,tissue_std,str,,tissue std
+MRL_mean_statistics.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+MRL_mean_statistics.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+MRL_mean_statistics.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+MRL_mean_statistics.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+MRL_mean_statistics.csv,BW_kg,float64,kg,Assumed adult body weight; primary60kg.
+MRL_mean_statistics.csv,ADI_ugkg_bw_day,float64,µg/kg body weight/day,Drug-specific acceptable daily intake used in the analysis.
+MRL_mean_statistics.csv,HQ_statistic,float64,,HQ statistic
+MRL_mean_statistics.csv,MRL_ugkg,float64,µg/kg,"Matched jurisdiction/food/tissue/marker-residue limit; reference-standard screen, not automatic legal violation."
+MRL_mean_statistics.csv,MRL_quotient,float64,,MRL quotient
+MRL_mean_statistics.csv,MRL_standard_version,str,,MRL standard version
+MRL_mean_statistics.csv,marker_match,str,,marker match
+MRL_mean_statistics.csv,MRL_source_url,str,,MRL source url
+MRL_mean_statistics.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+MRL_mean_statistics.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+MRL_mean_statistics.csv,plot_latitude,float64,,plot latitude
+MRL_mean_statistics.csv,plot_longitude,float64,,plot longitude
+MRL_mean_statistics.csv,coordinate_source,str,,coordinate source
+national_indicator_definitions.csv,variable,str,,variable
+national_indicator_definitions.csv,label,str,,label
+national_indicator_definitions.csv,unit,str,,unit
+national_indicator_definitions.csv,transform,str,,transform
+national_indicator_definitions.csv,applicable_foods,str,,applicable foods
+national_indicator_definitions.csv,missing_handling,str,,missing handling
+national_MRL_rules.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+national_MRL_rules.csv,antibiotic_members,str,,antibiotic members
+national_MRL_rules.csv,species_scope,str,,species scope
+national_MRL_rules.csv,tissue,str,,tissue
+national_MRL_rules.csv,food_scope,str,,food scope
+national_MRL_rules.csv,MRL_ugkg,float64,µg/kg,"Matched jurisdiction/food/tissue/marker-residue limit; reference-standard screen, not automatic legal violation."
+national_MRL_rules.csv,residue_definition,str,,residue definition
+national_MRL_rules.csv,standard_version,str,,standard version
+national_MRL_rules.csv,source_url,str,,source url
+national_MRL_rules.csv,source_locator,str,,source locator
+national_MRL_rules.csv,assessment_basis,str,,assessment basis
+national_MRL_rules.csv,retrieved,str,,retrieved
+national_MRL_rules.csv,native_limit,float64,,native limit
+national_MRL_rules.csv,native_unit,str,,native unit
+national_MRL_rules.csv,unit_conversion,str,,unit conversion
+national_MRL_sources.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+national_MRL_sources.csv,source_url,str,,source url
+national_MRL_sources.csv,source_version,str,,source version
+occurrence_units.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+occurrence_units.csv,study_id,str,identifier,Original source/study grouping key; not proof of independent biological study identity.
+occurrence_units.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+occurrence_units.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+occurrence_units.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+occurrence_units.csv,city,str,,city
+occurrence_units.csv,food_group,str,category,One of six animal-source-food categories.
+occurrence_units.csv,food_class_std,str,,food class std
+occurrence_units.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+occurrence_units.csv,antibiotic_class_std,str,,antibiotic class std
+occurrence_units.csv,sample_size_n,float64,analyte tests,Valid denominator for the corresponding antibiotic and sampling stratum.
+occurrence_units.csv,positive_count_n,float64,positive analyte tests,"Numerator k, constrained to0≤k≤n."
+occurrence_units.csv,rate,float64,proportion0–1,k/n; descriptive pooled rates use sum(k)/sum(n).
+occurrence_units.csv,denominator_scope,str,,denominator scope
+occurrence_units.csv,denominator_quality,str,,denominator quality
+occurrence_units.csv,drug_quality,str,,drug quality
+occurrence_units.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+occurrence_units.csv,latitude,float64,,latitude
+occurrence_units.csv,longitude,float64,,longitude
+occurrence_units.csv,coordinate_source,str,,coordinate source
+occurrence_units.csv,coordinate_precision,str,,coordinate precision
+occurrence_units.csv,antibiotic_class_broad,str,,antibiotic class broad
+paired_HQ_RQ_means.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+paired_HQ_RQ_means.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+paired_HQ_RQ_means.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+paired_HQ_RQ_means.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+paired_HQ_RQ_means.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+paired_HQ_RQ_means.csv,food_group,str,category,One of six animal-source-food categories.
+paired_HQ_RQ_means.csv,species_std,str,,species std
+paired_HQ_RQ_means.csv,tissue_std,str,,tissue std
+paired_HQ_RQ_means.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+paired_HQ_RQ_means.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+paired_HQ_RQ_means.csv,BW_kg,float64,kg,Assumed adult body weight; primary60kg.
+paired_HQ_RQ_means.csv,ADI_ugkg_bw_day,float64,µg/kg body weight/day,Drug-specific acceptable daily intake used in the analysis.
+paired_HQ_RQ_means.csv,HQ_current,float64,unitless,Frozen reference dietary quotient; recalculated HQ=C×IR/(BW×ADI).
+paired_HQ_RQ_means.csv,RQ_res,float64,unitless,Frozen reference exploratory resistance-selection quotient; recomputed RQ=C×IR/(Qcolon×F×PNEC).
+paired_HQ_RQ_means.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+paired_HQ_RQ_means.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+paired_HQ_RQ_means.csv,plot_latitude,float64,,plot latitude
+paired_HQ_RQ_means.csv,plot_longitude,float64,,plot longitude
+paired_HQ_RQ_means.csv,coordinate_source,str,,coordinate source
+paired_HQ_RQ_means.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+parameter_source_downloads.csv,name,str,,name
+parameter_source_downloads.csv,url,str,,url
+parameter_source_downloads.csv,final_url,str,,final url
+regression_regions.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+regression_regions.csv,GBD_super_region,str,,GBD super region
+resistance_selection_thresholds.csv,version,str,,version
+resistance_selection_thresholds.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+resistance_selection_thresholds.csv,PNEC_res_ug_L,float64,µg/L,Drug-specific environmental resistance-selection reference threshold.
+resistance_selection_thresholds.csv,source_drug,str,,source drug
+resistance_selection_thresholds.csv,source_url,str,,source url
+resistance_selection_thresholds.csv,source_pdf_page,int64,,source pdf page
+resistance_selection_thresholds.csv,source_table,str,,source table
+resistance_selection_thresholds.csv,source_line,str,,source line
+resistance_selection_thresholds.csv,mapping,str,,mapping
+resistance_selection_thresholds.csv,unit,str,,unit
+resistance_selection_thresholds.csv,threshold_domain,str,,threshold domain
+response_evaluation_cohorts.csv,endpoint,str,,endpoint
+response_evaluation_cohorts.csv,variable,str,,variable
+response_evaluation_cohorts.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+response_evaluation_cohorts.csv,weight,float64,,weight
+response_evaluation_grids.csv,endpoint,str,,endpoint
+response_evaluation_grids.csv,variable,str,,variable
+response_evaluation_grids.csv,grid_index,int64,,grid index
+response_evaluation_grids.csv,value,float64,,value
+risk_map_A_display.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+risk_map_A_display.csv,display_lon,float64,,display lon
+risk_map_A_display.csv,display_lat,float64,,display lat
+risk_map_B_display.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+risk_map_B_display.csv,display_lon,float64,,display lon
+risk_map_B_display.csv,display_lat,float64,,display lat
+risk_map_C_display.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+risk_map_C_display.csv,display_lon,float64,,display lon
+risk_map_C_display.csv,display_lat,float64,,display lat
+risk_mean_eligibility.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+risk_mean_eligibility.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+risk_mean_eligibility.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+risk_mean_eligibility.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+risk_mean_eligibility.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+risk_mean_eligibility.csv,food_group,str,category,One of six animal-source-food categories.
+risk_mean_eligibility.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+risk_mean_eligibility.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+risk_mean_eligibility.csv,quantitative_eligible,bool,,quantitative eligible
+risk_mean_eligibility.csv,risk_source_eligible,bool,,risk source eligible
+risk_mean_eligibility.csv,confirmed_duplicate_mean,bool,,confirmed duplicate mean
+risk_mean_eligibility.csv,final_HQ_disposition,str,,final HQ disposition
+RQ_positive_means.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+RQ_positive_means.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+RQ_positive_means.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+RQ_positive_means.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+RQ_positive_means.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+RQ_positive_means.csv,food_group,str,category,One of six animal-source-food categories.
+RQ_positive_means.csv,species_std,str,,species std
+RQ_positive_means.csv,tissue_std,str,,tissue std
+RQ_positive_means.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+RQ_positive_means.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+RQ_positive_means.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+RQ_positive_means.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+RQ_positive_means.csv,BW_kg,float64,kg,Assumed adult body weight; primary60kg.
+RQ_positive_means.csv,ADI_ugkg_bw_day,float64,µg/kg body weight/day,Drug-specific acceptable daily intake used in the analysis.
+RQ_positive_means.csv,HQ_current,float64,unitless,Frozen reference dietary quotient; recalculated HQ=C×IR/(BW×ADI).
+RQ_positive_means.csv,MRL_ugkg,float64,µg/kg,"Matched jurisdiction/food/tissue/marker-residue limit; reference-standard screen, not automatic legal violation."
+RQ_positive_means.csv,MRL_quotient,float64,,MRL quotient
+RQ_positive_means.csv,MRL_standard_version,str,,MRL standard version
+RQ_positive_means.csv,marker_match,str,,marker match
+RQ_positive_means.csv,MRL_source_url,str,,MRL source url
+RQ_positive_means.csv,PNEC_version,str,,PNEC version
+RQ_positive_means.csv,PNEC_res_ug_L,float64,µg/L,Drug-specific environmental resistance-selection reference threshold.
+RQ_positive_means.csv,F,float64,unitless,"Composite attenuation scenario, primary100; not an empirical drug-specific pharmacokinetic estimate."
+RQ_positive_means.csv,V_colon_L_day,float64,L/day,"Assumed equivalent colonic throughput, primary0.5L/day."
+RQ_positive_means.csv,C_colon_ug_L,float64,,C colon ug L
+RQ_positive_means.csv,RQ_res,float64,unitless,Frozen reference exploratory resistance-selection quotient; recomputed RQ=C×IR/(Qcolon×F×PNEC).
+RQ_positive_means.csv,map_latitude,float64,degrees north,"Original audited map coordinate; may be a country/city reference, not a precise sampling location."
+RQ_positive_means.csv,map_longitude,float64,degrees east,"Original audited map coordinate, distinct from purely graphical displacement."
+RQ_positive_means.csv,plot_latitude,float64,,plot latitude
+RQ_positive_means.csv,plot_longitude,float64,,plot longitude
+RQ_positive_means.csv,coordinate_source,str,,coordinate source
+RQ_res_model_input.csv,statistic_id,str,identifier,Unique concentration-statistic or endpoint-record key; suffix distinguishes statistic type.
+RQ_res_model_input.csv,canonical_row,int64,identifier,Frozen underlying extracted-record identifier; used to prevent multiple statistics from increasing a record's total hierarchical weight.
+RQ_res_model_input.csv,sampling_frame_id,str,identifier,Source-specific sampling-frame grouping; shared groups may have overlapping analyte tests.
+RQ_res_model_input.csv,source_id,str,identifier,DOI where present or stable non-DOI grouping key; used for evidence weights and clustered uncertainty.
+RQ_res_model_input.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+RQ_res_model_input.csv,DOI,str,identifier,Reported DOI; missing is not silently assigned a DOI.
+RQ_res_model_input.csv,food_group,str,category,One of six animal-source-food categories.
+RQ_res_model_input.csv,antibiotic_std,str,category,Standardised individual antibiotic identifier.
+RQ_res_model_input.csv,statistic_type,str,category,Concentration statistic basis. These bases are not pooled interchangeably.
+RQ_res_model_input.csv,sample_source,str,,sample source
+RQ_res_model_input.csv,analytical_method,str,,analytical method
+RQ_res_model_input.csv,sampling_design,str,,sampling design
+RQ_res_model_input.csv,tissue_std,str,,tissue std
+RQ_res_model_input.csv,antibiotic_class_broad,str,,antibiotic class broad
+RQ_res_model_input.csv,map_location_level,str,,map location level
+RQ_res_model_input.csv,marker_match,str,,marker match
+RQ_res_model_input.csv,year_mid,float64,calendar year,Verified sampling year or sampling-interval midpoint; missing is not replaced with publication year.
+RQ_res_model_input.csv,food_intake_kg_day,float64,kg/day,"Reference intake for the corresponding food group; scenario assumption, not participant-specific dietary measurement."
+RQ_res_model_input.csv,RQ_res,float64,unitless,Frozen reference exploratory resistance-selection quotient; recomputed RQ=C×IR/(Qcolon×F×PNEC).
+RQ_res_model_input.csv,available_path_attention_trigger,object,binary0/1,Available-pathway flag: any evaluable HQ>0.1 or matched C/MRL>1. Unevaluated pathways are not proven safe.
+RQ_res_model_input.csv,concentration_ugkg,float64,µg/kg,"Converted concentration statistic; statistic_type identifies positive mean, all-sample mean, median, minimum or maximum."
+RQ_res_model_input.csv,reported_vet_AMU_kg_food_scope,float64,kg,Reported veterinary antimicrobial use; log1p_z; all
+RQ_res_model_input.csv,modelled_2020_vet_AMU_mg_PCU,float64,mg/PCU,Modelled veterinary use in 2020; raw_z; all
+RQ_res_model_input.csv,EMA_vet_AMU_mg_PCU,float64,mg/PCU,EMA veterinary antimicrobial intensity; raw_z; all
+RQ_res_model_input.csv,production_intensity_proxy,float64,tonnes per 1000 people,Food production per 1000 people; log1p_z; all
+RQ_res_model_input.csv,aquaculture_production_tonnes,float64,tonnes,Aquaculture production; log1p_z; aquatic products only
+RQ_res_model_input.csv,aquaculture_share_pct,float64,percent,Aquaculture share; raw_z; aquatic products only
+RQ_res_model_input.csv,TrACSS_vet_regulatory_stage_score,float64,ordinal score,Veterinary regulatory implementation; raw_z; all
+RQ_res_model_input.csv,GDP_per_capita_current_USD,float64,current USD/person,GDP per capita; log1p_z; all
+RQ_res_model_input.csv,rural_population_pct,float64,percent,Rural population share; raw_z; all
+RQ_res_model_input.csv,agriculture_value_added_pct_GDP,float64,percent GDP,Agricultural value added; raw_z; all
+RQ_res_model_input.csv,access_to_electricity_pct,float64,percent,Electricity access; raw_z; all
+RQ_res_model_input.csv,safely_managed_drinking_water_pct,float64,percent,Safe drinking water; raw_z; all
+RQ_res_model_input.csv,safely_managed_sanitation_pct,float64,percent,Safe sanitation; raw_z; all
+RQ_res_model_input.csv,human_total_DDD_per_1000_day,float64,DDD/1000 people/day,Human antibiotic consumption; raw_z; all
+RQ_res_model_input.csv,freshwater_withdrawal_stress_pct,float64,percent,Freshwater withdrawal stress; log1p_z; aquatic products only
+RQ_res_model_input.csv,WGI_Government_Effectiveness,float64,WGI estimate,Government effectiveness; raw_z; all
+RQ_res_model_input.csv,WGI_Control_of_Corruption,float64,WGI estimate,Control of corruption; raw_z; all
+WHO_regions.csv,country_iso3,str,ISO3166-1alpha3,Country grouping; missing is retained where applicable.
+WHO_regions.csv,GBD_super_region,str,,GBD super region
+WHO_regions.csv,mapping_source,str,,mapping source
+WHO_regions.csv,source_locator,str,,source locator
+WHO_regions.csv,WHO_region,str,,WHO region
+WHO_regions.csv,display_region,str,,display region
+WHO_regions.csv,reference_geography_year,int64,,reference geography year
+WHO_regions.csv,version_source,str,,version source
+WHO_regions.csv,mapping_note,str,,mapping note
