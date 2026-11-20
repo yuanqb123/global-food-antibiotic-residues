@@ -1,0 +1,85 @@
+version,antibiotic_std,PNEC_res_ug_L,source_drug,source_url,source_pdf_page,source_table,source_line,mapping,unit,threshold_domain
+WHO2024,amikacin,16.0,amikacin,https://www.who.int/publications/i/item/9789240097254,74,A1.1," 
+ 
+Amikacin Aminoglycoside 16 (1) - - - No data",exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,amoxicillin,0.25,amoxicillin,https://www.who.int/publications/i/item/9789240097254,74,A1.1,Amoxicillin Penicillin 0.25 (1) 0.57 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,ampicillin,0.25,ampicillin,https://www.who.int/publications/i/item/9789240097254,74,A1.1,Ampicillin Penicillin 0.25 (1) 0.6 Cyanobium ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,azithromycin,0.25,azithromycin,https://www.who.int/publications/i/item/9789240097254,74,A1.1,Azithromycin Macrolide 0.25 (1) 0.03 Microcystis ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,bacitracin,8.0,bacitracin,https://www.who.int/publications/i/item/9789240097254,74,A1.1,Bacitracin Cyclic peptide 8 (1) 114.59 Geometric mean ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,benzylpenicillin,0.25,benzylpenicillin,https://www.who.int/publications/i/item/9789240097254,74,A1.1,Benzylpenicillin Penicillin 0.25 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,cefalexin,4.0,Cephalexin,https://www.who.int/publications/i/item/9789240097254,75,A1.1,Cephalexin Cephalosporin 4 (1) 0.21 Anabaena flos-,explicit_synonym,ug/L,aquatic_environment_resistance_selection
+WHO2024,ceftiofur,0.06,ceftiofur,https://www.who.int/publications/i/item/9789240097254,75,A1.1,Ceftiofur Cephalosporin 0.06 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,ceftriaxone,0.03,ceftriaxone,https://www.who.int/publications/i/item/9789240097254,75,A1.1,Ceftriaxone Cephalosporin 0.03 (1) 0.33 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,chloramphenicol,8.0,chloramphenicol,https://www.who.int/publications/i/item/9789240097254,75,A1.1,Chloramphenicol Amphenicol 8 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,ciprofloxacin,0.023,ciprofloxacin,https://www.who.int/publications/i/item/9789240097254,75,A1.1,Ciprofloxacin Fluoroquinolone 0.023 (2) 0.45 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,clarithromycin,0.25,clarithromycin,https://www.who.int/publications/i/item/9789240097254,75,A1.1,Clarithromycin Macrolide 0.25 (1) 0.25 Raphidocelis ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,cloxacillin,0.13,cloxacillin,https://www.who.int/publications/i/item/9789240097254,75,A1.1,Cloxacillin Penicillin 0.13 (1) 20 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,doxycycline,2.0,doxycycline,https://www.who.int/publications/i/item/9789240097254,76,A1.1,Doxycycline Tetracycline 2 (1) 25.1 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,enrofloxacin,0.06,enrofloxacin,https://www.who.int/publications/i/item/9789240097254,76,A1.1,Enrofloxacin Fluoroquinolone 0.06 (1) 1.91 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,erythromycin,1.0,erythromycin,https://www.who.int/publications/i/item/9789240097254,76,A1.1,Erythromycin Macrolide 1 (1) 0.5 Anabaena sp. ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,florfenicol,2.0,florfenicol,https://www.who.int/publications/i/item/9789240097254,76,A1.1,Florfenicol Phenicol 2 (1) 38 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,flumequine,0.25,flumequine,https://www.who.int/publications/i/item/9789240097254,76,A1.1,Flumequine Fluoroquinolone 0.25 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,gentamicin,1.0,gentamicin,https://www.who.int/publications/i/item/9789240097254,76,A1.1,Gentamicin Aminoglycoside 1 (1) 0.15 Raphidocelis ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,lincomycin,2.0,lincomycin,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Lincomycin Lincosamide 2 (1) 0.81 Synechococcus ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,metronidazole,0.13,metronidazole,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Metronidazole Imidazole 0.13 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,minocycline,1.0,minocycline,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Minocycline Tetracycline 1 (1) 1.1 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,nalidixic acid,16.0,nalidixic acid,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Nalidixic acid Quinolone 16 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,neomycin,2.0,neomycin,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Neomycin Aminoglycoside 2 (1) 0.03 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,nitrofurantoin,64.0,nitrofurantoin,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Nitrofurantoin Nitrofuran 64 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,norfloxacin,0.5,norfloxacin,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Norfloxacin Fluoroquinolone 0.5 (1) 120 Anabaena sp. ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,ofloxacin,0.5,ofloxacin,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Ofloxacin Fluoroquinolone 0.5 (1) 10 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,oxytetracycline,0.5,oxytetracycline,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Oxytetracycline Tetracycline 0.5 (1) 47 Raphidocelis ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,penicillin v,0.06,Phenoxymethylpenicillin,https://www.who.int/publications/i/item/9789240097254,77,A1.1,Phenoxymethylpenicillin Penicillin 0.06 (1) - - - No data,explicit_synonym,ug/L,aquatic_environment_resistance_selection
+WHO2024,roxithromycin,1.0,roxithromycin,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Roxithromycin Macrolide 1 (1) 6.8 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,spectinomycin,32.0,spectinomycin,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Spectinomycin Aminocyclitol 32 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,spiramycin,0.5,spiramycin,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Spiramycin Macrolide 0.5 (1) 1.09 Synechococcus ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,streptomycin,16.0,streptomycin,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Streptomycin Aminoglycoside 16 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,sulfamethoxazole,16.0,sulfamethoxazole,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Sulfamethoxazole Sulfonamide 16 (1) 0.6 Synechococcus ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,tetracycline,0.1,tetracycline,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Tetracycline Tetracycline 0.1 (3) 3.2 Raphidocelis ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,thiamphenicol,1.0,thiamphenicol,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Thiamphenicol Amphenicol 1 (1) - - - No data,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,tilmicosin,1.0,tilmicosin,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Tilmicosin Macrolide 1 (1) 0.8 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,tobramycin,1.0,tobramycin,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Tobramycin Aminoglycoside 1 (1) 4.3 Anabaena flos-,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,trimethoprim,0.5,trimethoprim,https://www.who.int/publications/i/item/9789240097254,78,A1.1,Trimethoprim Trimethoprim 0.5 (1) 312.45 Geomean of ,exact,ug/L,aquatic_environment_resistance_selection
+WHO2024,tylosin,4.0,tylosin,https://www.who.int/publications/i/item/9789240097254,79,A1.1," 
+ 
+Tylosin Macrolide 4 (1) 0.98 Geomean of ",exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,amikacin,16.0,amikacin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Amikacin 28 250 125 16 15 (8),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,amoxicillin,0.25,amoxicillin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Amoxicillin 29 4 2 0.25 19 (12) 0.05,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,ampicillin,0.25,ampicillin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,"Ampicillin 64 4 4 0.25 25 (15) N1,000,000 0.126",exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,azithromycin,0.25,azithromycin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Azithromycin 12 16 4 0.25 6 (6) 0.38,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,bacitracin,8.0,bacitracin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Bacitracin 2 2000 64 8 1 (1),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,benzylpenicillin,0.25,benzylpenicillin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Benzylpenicillin 47 4 4 0.25 12 (11),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,cefalexin,4.0,Cefalexin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Cefalexin 10 250 32 4 7 (5) 1.8,explicit_synonym,ug/L,aquatic_environment_resistance_selection
+BPL2016,ceftiofur,0.064,ceftiofur,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Ceftiofur 4 8 0.5 0.064 3 (3),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,ceftriaxone,0.032,ceftriaxone,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Ceftriaxone 29 2 0.69 0.25 0.032 16 (10),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,chloramphenicol,8.0,chloramphenicol,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Chloramphenicol 29 125 64 8 18 (11),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,ciprofloxacin,0.064,ciprofloxacin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Ciprofloxacin 70 2 1.2 1 0.064 29 (18) 1.2 1.2 0.742,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,clarithromycin,0.25,clarithromycin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Clarithromycin 15 8 2 0.25 10 (10) 2b 0.04 0.61,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,cloxacillin,0.125,cloxacillin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Cloxacillin 1 64 1 0.125 1 (1) 0.7,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,doxycycline,2.0,doxycycline,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Doxycycline 29 32 16 2 20 (11) 0.915,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,enrofloxacin,0.064,enrofloxacin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Enrofloxacin 4 8 0.5 0.064 4 (3) 0.05,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,erythromycin,1.0,erythromycin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Erythromycin 39 16 8 1 14 (13) 10.3 0.103 0.62,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,florfenicol,2.0,florfenicol,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Florfenicol 9 125 16 2 6 (5),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,flumequine,0.25,flumequine,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Flumequine 3 64 4 0.25 3 (2),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,gentamicin,1.0,gentamicin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Gentamicin 68 16 16 1 27 (14) 1.3,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,lincomycin,2.0,lincomycin,https://doi.org/10.1016/j.envint.2015.10.015,4,1,Lincomycin 2 500 16 2 2 (2) 0.3,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,metronidazole,0.125,metronidazole,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Metronidazole 6 16 2 0.125 3 (3) 2030c 40.6 0.561,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,minocycline,1.0,minocycline,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Minocycline 24 32 16 1 15 (8) b0.03,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,nalidixic acid,16.0,nalidixic acid,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Nalidixic acid 17 500 125 16 13 (5) 0.45,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,neomycin,2.0,neomycin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Neomycin 8 125 16 2 6 (5),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,nitrofurantoin,64.0,nitrofurantoin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Nitrofurantoin 8 4000 500 64 5 (4),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,norfloxacin,0.5,norfloxacin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Norfloxacin 15 16 4 0.5 12 (8) 0.32,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,ofloxacin,0.5,ofloxacin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Ofloxacin 26 8 4 0.5 20 (14) 4.82,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,oxytetracycline,0.5,oxytetracycline,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Oxytetracycline 2 125 4 0.5 2 (2) 0.07,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,penicillin v,0.064,Phenoxymethylpenicillin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,phenoxymethylpenicillin the measured concentrations were close to,explicit_synonym,ug/L,aquatic_environment_resistance_selection
+BPL2016,roxithromycin,1.0,roxithromycin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Roxithromycin 14 32 8 1 7 (7) 10 0.047 0.54,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,spectinomycin,32.0,spectinomycin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Spectinomycin 8 2000 250 32 5 (4),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,spiramycin,0.5,spiramycin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Spiramycin 2 125 4 0.5 1 (1) 0.454,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,streptomycin,16.0,streptomycin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Streptomycin 32 250 125 16 14 (9),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,sulfamethoxazole,16.0,sulfamethoxazole,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Sulfamethoxazole 8 1000 125 16 6 (4) 5.9 0.59 0.964,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,tetracycline,1.0,tetracycline,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Tetracycline 66 16 16 1 30 (18) 0.62,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,thiamphenicol,1.0,thiamphenicol,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Thiamphenicol 1 500 8 1 1 (1),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,tilmicosin,1.0,tilmicosin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Tilmicosin 2 250 8 1 2 (1),exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,tobramycin,1.0,tobramycin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Tobramycin 31 16 8 1 15 (8) 51 5.1,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,trimethoprim,0.5,trimethoprim,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Trimethoprim 22 16 8 0.5 15 (7) 5600 56 2.4,exact,ug/L,aquatic_environment_resistance_selection
+BPL2016,tylosin,4.0,tylosin,https://doi.org/10.1016/j.envint.2015.10.015,5,1,Tylosin 1 2000 32 4 1 (1) 3.4,exact,ug/L,aquatic_environment_resistance_selection

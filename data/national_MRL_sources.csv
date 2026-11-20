@@ -1,0 +1,41 @@
+country_iso3,source_url,source_version
+AUT,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+BEL,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+BGR,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+BRA,https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-animal/plano-de-nacional-de-controle-de-residuos-e-contaminantes/instrucao-normativa-in-no-162-de-01_07_2022.pdf,IN162_2022_consolidated_official_snapshot_includes_2025_amendments_retrieved_2026-10-07
+CAN,https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/maximum-residue-limits-mrls/list-maximum-residue-limits-mrls-veterinary-drugs-foods.html,HealthCanada_2025-06-23
+CHN,https://faolex.fao.org/docs/pdf/chn215905.pdf,GB31650-2019
+CYP,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+CZE,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+DEU,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+DNK,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+ESP,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+EST,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+FIN,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+FRA,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+GBR,https://assets.publishing.service.gov.uk/media/69148057db01ecfcf96fc845/Maximum_Residue_Limits_in_Great_Britain.pdf,VMD_GB_MRL_list_2025-11
+GRC,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+HUN,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+IND,https://fssai.gov.in/upload/uploadfiles/files/Compendium_Contaminants_Regulations_28_01_2022.pdf,FSSAI_compendium_VI_2022-01-27
+IRL,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+ITA,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+KOR,https://www.mfds.go.kr/brd/m_218/view.do?seq=33556,MFDS_2023-56_2023-08-31_Korean_definition_and_reference_Excel
+LTU,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+LUX,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+LVA,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+MLT,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+NLD,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+POL,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+PRT,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+ROU,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+SVK,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+SVN,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+SWE,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0037,EU37_2010_original_annex_2010-01-20
+THA,https://food.fda.moph.go.th/media.php?id=509338798723833856&name=No.303-50+Veterinary+Drugs+Residues+in+Foods.pdf,MOPH303_2007_official_hosted_English_translation
+USA,https://www.govinfo.gov/content/pkg/CFR-2019-title21-vol6/pdf/CFR-2019-title21-vol6-part556.pdf,21CFR556_2019-04-01
+AUS,https://www.foodstandards.gov.au/food-standards-code/legislation,Schedule20
+NZL,https://www.mpi.govt.nz/agriculture/agricultural-compounds-vet-medicines/maximum-residue-levels-agricultural-compounds,Food Notice2026
+JPN,https://www.caa.go.jp/policies/policy/standards_evaluation/pesticide_residues,CAA residue standards
+SAU,https://beta.sfda.gov.sa/sites/default/files/2019-06/VeterinaryDrugs_0.pdf,GSO2481/2019 document
+TUR,https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23388&MevzuatTertip=5&MevzuatTur=7,"Regulation gazette30000,2017-03-07"
+MYS,https://hq.moh.gov.my/fsq/xs/page.php?s=peraturanperaturan-makanan-1985,Food Regulations1985 official consolidation

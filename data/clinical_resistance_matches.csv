@@ -1,0 +1,235 @@
+species,country_iso3,food_detection_pct,resistance_pct,AMR_year,metric,third_generation_cephalosporins_pct,fluoroquinolones_pct,source,isolates_tested
+Escherichia coli,ARG,52.79187817258884,16.15549442140351,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,29.0,,
+Escherichia coli,AUS,0.02097438198739,10.198039027185567,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,8.0,13.0,,
+Escherichia coli,AUT,4.8780487804878,11.61895003862225,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,15.0,,
+Escherichia coli,BEL,1.0752688172043,12.727922061357855,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,18.0,,
+Escherichia coli,BEN,39.48863636363636,80.90117428072351,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,77.0,85.0,,
+Escherichia coli,BGD,21.93052906334705,58.39520528262573,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,62.0,55.0,,
+Escherichia coli,BGR,20.51282051282051,34.942810419312295,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,37.0,33.0,,
+Escherichia coli,BRA,5.18485121731289,27.568097504180443,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,20.0,38.0,,
+Escherichia coli,CAN,10.564027190887373,13.41640786499874,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,20.0,,
+Escherichia coli,CHL,18.3206106870229,24.08318915758459,2014.0,Equal-weight geometric mean: 3GC + fluoroquinolones,20.0,29.0,,
+Escherichia coli,CHN,6.429101958136391,59.86651818838306,2017.0,Equal-weight geometric mean: 3GC + fluoroquinolones,64.0,56.0,,
+Escherichia coli,CMR,34.27866831072749,57.4978260458602,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,58.0,57.0,,
+Escherichia coli,COL,1.47234381217668,19.8997487421324,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,12.0,33.0,,
+Escherichia coli,CYP,3.85209997423344,37.66961640367472,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,33.0,43.0,,
+Escherichia coli,CZE,51.24528301886792,16.492422502470642,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,16.0,17.0,,
+Escherichia coli,DEU,1.0626398210290802,9.899494936611664,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,7.0,14.0,,
+Escherichia coli,DNK,0.004614807764414,7.745966692414834,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,6.0,10.0,,
+Escherichia coli,DZA,16.45164241925153,23.81176179958132,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,21.0,27.0,,
+Escherichia coli,ECU,9.12024862538847,54.85435260760991,2014.0,Equal-weight geometric mean: 3GC + fluoroquinolones,51.0,59.0,,
+Escherichia coli,EGY,14.16628666970664,70.74602462329597,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,77.0,65.0,,
+Escherichia coli,ESP,2.8021379274557603,18.7349939951952,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,13.0,27.0,,
+Escherichia coli,ETH,23.34841628959276,70.97182539571601,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,69.0,73.0,,
+Escherichia coli,FRA,1.53846153846153,8.774964387392123,2022.0,Equal-weight geometric mean: 3GC + fluoroquinolones,7.0,11.0,,
+Escherichia coli,GBR,24.35897435897435,9.9498743710662,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,11.0,,
+Escherichia coli,GHA,7.89194915254237,73.86474125047755,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,88.0,62.0,,
+Escherichia coli,GRC,4.61538461538461,28.24889378365107,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,21.0,38.0,,
+Escherichia coli,HRV,3.27506530038175,25.099800796022265,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,21.0,30.0,,
+Escherichia coli,HUN,0.74626865671641,23.664319132398465,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,20.0,28.0,,
+Escherichia coli,IDN,14.26775612822124,62.161081071680215,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,56.0,69.0,,
+Escherichia coli,IND,5.61586076971382,69.45502141674135,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,67.0,72.0,,
+Escherichia coli,IRL,1.33689839572192,13.2664991614216,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,11.0,16.0,,
+Escherichia coli,IRN,14.235229155162893,65.4828221749796,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,64.0,67.0,,
+Escherichia coli,IRQ,15.93781597573306,57.1314274283428,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,64.0,51.0,,
+Escherichia coli,ITA,0.41107588982008,28.5657137141714,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,24.0,34.0,,
+Escherichia coli,JOR,1.92307692307692,43.47413023856832,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,42.0,45.0,,
+Escherichia coli,JPN,12.40278346295538,22.58317958127243,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,15.0,34.0,,
+Escherichia coli,KEN,17.5682585131404,62.80127387243033,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,58.0,68.0,,
+Escherichia coli,KHM,1.60274756725815,67.7347768875044,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,62.0,74.0,,
+Escherichia coli,KOR,2.15545258213993,33.54101966249684,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,25.0,45.0,,
+Escherichia coli,KWT,32.52322178394197,37.46998799039039,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,36.0,39.0,,
+Escherichia coli,LAO,21.973094170403577,48.18713521262704,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,54.0,43.0,,
+Escherichia coli,LBN,8.20427367182905,53.85164807134504,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,58.0,50.0,,
+Escherichia coli,LKA,29.457364341085267,53.66563145999496,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,48.0,60.0,,
+Escherichia coli,LVA,5.26315789473684,18.76166303929372,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,16.0,22.0,,
+Escherichia coli,MAR,11.35135135135135,27.92848008753788,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,20.0,39.0,,
+Escherichia coli,MDG,37.22854188210961,36.41428291206625,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,34.0,39.0,,
+Escherichia coli,MEX,21.88425302826379,59.9666574022598,2015.0,Equal-weight geometric mean: 3GC + fluoroquinolones,58.0,62.0,,
+Escherichia coli,MYS,48.94837476099426,24.899799195977465,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,20.0,31.0,,
+Escherichia coli,NGA,24.709246901811248,77.30459236035075,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,72.0,83.0,,
+Escherichia coli,NLD,0.40650406504065,10.198039027185567,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,8.0,13.0,,
+Escherichia coli,NOR,100.0,7.071067811865476,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,5.0,10.0,,
+Escherichia coli,NPL,43.61424847958297,52.44044240850758,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,55.0,50.0,,
+Escherichia coli,NZL,0.0,7.745966692414834,2015.0,Equal-weight geometric mean: 3GC + fluoroquinolones,6.0,10.0,,
+Escherichia coli,OMN,5.84307178631051,42.8485705712571,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,51.0,36.0,,
+Escherichia coli,PAK,20.17241379310344,71.49825172687791,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,72.0,71.0,,
+Escherichia coli,PER,15.64885496183206,54.67174773134658,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,49.0,61.0,,
+Escherichia coli,PHL,38.09523809523809,34.698703145794944,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,28.0,43.0,,
+Escherichia coli,POL,42.58555133079848,24.657656011875904,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,19.0,32.0,,
+Escherichia coli,PRT,11.51603498542274,16.911534525287763,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,13.0,22.0,,
+Escherichia coli,PSE,0.0,36.945906403822335,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,39.0,35.0,,
+Escherichia coli,ROU,37.5,21.79449471770337,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,19.0,25.0,,
+Escherichia coli,RWA,24.23076923076923,62.83311228962003,2022.0,Equal-weight geometric mean: 3GC + fluoroquinolones,47.0,84.0,,
+Escherichia coli,SAU,22.1091811414392,39.4715087119811,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,38.0,41.0,,
+Escherichia coli,SDN,62.23821989528796,55.49774770204643,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,56.0,55.0,,
+Escherichia coli,SGP,3.58796296296296,29.698484809834994,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,21.0,42.0,,
+Escherichia coli,SOM,24.0,48.42520005121301,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,67.0,35.0,,
+Escherichia coli,SRB,16.0,39.68626966596886,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,35.0,45.0,,
+Escherichia coli,SVN,0.07645259938837,12.36931687685298,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,17.0,,
+Escherichia coli,SWE,5.4054054054054,7.416198487095663,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,5.0,11.0,,
+Escherichia coli,TCD,33.58778625954198,56.12486080160912,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,63.0,50.0,,
+Escherichia coli,THA,9.06735751295336,42.708313008125245,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,32.0,57.0,,
+Escherichia coli,TTO,9.13770913770913,22.9128784747792,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,15.0,35.0,,
+Escherichia coli,TUR,13.72217958557176,53.47896782848375,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,55.0,52.0,,
+Escherichia coli,TWN,4.91803278688524,56.859475903318,2016.0,Equal-weight geometric mean: 3GC + fluoroquinolones,61.0,53.0,,
+Escherichia coli,TZA,34.57467159801046,54.91812087098393,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,52.0,58.0,,
+Escherichia coli,UGA,21.6743119266055,70.35623639735144,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,66.0,75.0,,
+Escherichia coli,USA,3.04611061087658,21.563858652847824,2016.0,Equal-weight geometric mean: 3GC + fluoroquinolones,15.0,31.0,,
+Escherichia coli,VNM,8.944003372444321,68.45436436049933,2016.0,Equal-weight geometric mean: 3GC + fluoroquinolones,71.0,66.0,,
+Escherichia coli,ZAF,15.536596317916478,22.44994432064365,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,18.0,28.0,,
+Escherichia coli,ZMB,37.9020979020979,46.4327470649756,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,44.0,49.0,,
+Klebsiella pneumoniae,ARG,52.79187817258884,47.49736834815167,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,47.0,48.0,,
+Klebsiella pneumoniae,AUS,0.02097438198739,6.48074069840786,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,6.0,7.0,,
+Klebsiella pneumoniae,AUT,4.8780487804878,12.96148139681572,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,12.0,14.0,,
+Klebsiella pneumoniae,BEL,1.0752688172043,20.445048300260872,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,19.0,22.0,,
+Klebsiella pneumoniae,BEN,39.48863636363636,81.90238091777309,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,86.0,78.0,,
+Klebsiella pneumoniae,BGD,21.93052906334705,53.91660226683428,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,57.0,51.0,,
+Klebsiella pneumoniae,BGR,20.51282051282051,75.83534795858722,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,81.0,71.0,,
+Klebsiella pneumoniae,BRA,5.18485121731289,62.0,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,62.0,62.0,,
+Klebsiella pneumoniae,CAN,10.564027190887373,6.928203230275509,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,6.0,8.0,,
+Klebsiella pneumoniae,CHN,6.429101958136391,48.062459362791664,2017.0,Equal-weight geometric mean: 3GC + fluoroquinolones,55.0,42.0,,
+Klebsiella pneumoniae,CMR,34.27866831072749,52.64978632435273,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,66.0,42.0,,
+Klebsiella pneumoniae,COL,1.47234381217668,27.459060435491963,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,26.0,29.0,,
+Klebsiella pneumoniae,CYP,3.85209997423344,56.96490147450446,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,59.0,55.0,,
+Klebsiella pneumoniae,CZE,51.24528301886792,41.352146256270665,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,45.0,38.0,,
+Klebsiella pneumoniae,DEU,1.0626398210290802,9.486832980505138,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,10.0,,
+Klebsiella pneumoniae,DNK,0.004614807764414,6.48074069840786,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,6.0,7.0,,
+Klebsiella pneumoniae,DZA,16.45164241925153,38.15756805667783,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,56.0,26.0,,
+Klebsiella pneumoniae,ECU,9.12024862538847,62.83311228962003,2014.0,Equal-weight geometric mean: 3GC + fluoroquinolones,84.0,47.0,,
+Klebsiella pneumoniae,EGY,14.16628666970664,82.15838362577492,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,90.0,75.0,,
+Klebsiella pneumoniae,ESP,2.8021379274557603,28.0,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,28.0,28.0,,
+Klebsiella pneumoniae,ETH,23.34841628959276,79.69316156358713,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,87.0,73.0,,
+Klebsiella pneumoniae,FRA,1.53846153846153,20.90454496036688,2022.0,Equal-weight geometric mean: 3GC + fluoroquinolones,23.0,19.0,,
+Klebsiella pneumoniae,GBR,24.35897435897435,13.490737563232042,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,13.0,14.0,,
+Klebsiella pneumoniae,GHA,7.89194915254237,60.74537019394976,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,82.0,45.0,,
+Klebsiella pneumoniae,GRC,4.61538461538461,75.48509786706248,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,74.0,77.0,,
+Klebsiella pneumoniae,HRV,3.27506530038175,55.49774770204643,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,55.0,56.0,,
+Klebsiella pneumoniae,HUN,0.74626865671641,38.49675310984031,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,39.0,38.0,,
+Klebsiella pneumoniae,IDN,14.26775612822124,63.99218702310463,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,65.0,63.0,,
+Klebsiella pneumoniae,IND,5.61586076971382,69.99285677838846,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,71.0,69.0,,
+Klebsiella pneumoniae,IRL,1.33689839572192,15.491933384829668,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,16.0,15.0,,
+Klebsiella pneumoniae,IRN,14.235229155162893,71.0,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,71.0,71.0,,
+Klebsiella pneumoniae,IRQ,15.93781597573306,59.590267661758325,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,67.0,53.0,,
+Klebsiella pneumoniae,ITA,0.41107588982008,50.99019513592785,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,52.0,50.0,,
+Klebsiella pneumoniae,JOR,1.92307692307692,41.89272013130682,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,45.0,39.0,,
+Klebsiella pneumoniae,JPN,12.40278346295538,6.708203932499369,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,9.0,5.0,,
+Klebsiella pneumoniae,KEN,17.5682585131404,66.40783086353596,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,70.0,63.0,,
+Klebsiella pneumoniae,KHM,1.60274756725815,52.91502622129181,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,50.0,56.0,,
+Klebsiella pneumoniae,KOR,2.15545258213993,30.397368307141328,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,28.0,33.0,,
+Klebsiella pneumoniae,KWT,32.52322178394197,44.955533585978046,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,47.0,43.0,,
+Klebsiella pneumoniae,LAO,21.973094170403577,26.92582403567252,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,29.0,25.0,,
+Klebsiella pneumoniae,LBN,8.20427367182905,61.25357132445422,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,67.0,56.0,,
+Klebsiella pneumoniae,LKA,29.457364341085267,56.444663166680336,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,54.0,59.0,,
+Klebsiella pneumoniae,LVA,5.26315789473684,41.49698784249286,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,42.0,41.0,,
+Klebsiella pneumoniae,MAR,11.35135135135135,52.0,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,52.0,52.0,,
+Klebsiella pneumoniae,MDG,37.22854188210961,45.05552130427524,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,58.0,35.0,,
+Klebsiella pneumoniae,MEX,21.88425302826379,38.52272056851645,2015.0,Equal-weight geometric mean: 3GC + fluoroquinolones,53.0,28.0,,
+Klebsiella pneumoniae,MOZ,6.08552631578947,77.48548251124207,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,79.0,76.0,,
+Klebsiella pneumoniae,MYS,48.94837476099426,28.930952282978865,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,31.0,27.0,,
+Klebsiella pneumoniae,NGA,24.709246901811248,83.0,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,83.0,83.0,,
+Klebsiella pneumoniae,NLD,0.40650406504065,10.488088481701515,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,10.0,11.0,,
+Klebsiella pneumoniae,NOR,100.0,6.324555320336759,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,4.0,10.0,,
+Klebsiella pneumoniae,NPL,43.61424847958297,59.2452529743945,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,65.0,54.0,,
+Klebsiella pneumoniae,NZL,0.0,12.409673645990855,2015.0,Equal-weight geometric mean: 3GC + fluoroquinolones,14.0,11.0,,
+Klebsiella pneumoniae,OMN,5.84307178631051,45.89117562233506,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,54.0,39.0,,
+Klebsiella pneumoniae,PAK,20.17241379310344,56.39148871948674,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,60.0,53.0,,
+Klebsiella pneumoniae,PER,15.64885496183206,54.91812087098393,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,52.0,58.0,,
+Klebsiella pneumoniae,PHL,38.09523809523809,45.98912915026767,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,45.0,47.0,,
+Klebsiella pneumoniae,POL,42.58555133079848,63.49803146555018,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,63.0,64.0,,
+Klebsiella pneumoniae,PRT,11.51603498542274,43.47413023856832,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,45.0,42.0,,
+Klebsiella pneumoniae,PSE,0.0,53.0659966456864,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,64.0,44.0,,
+Klebsiella pneumoniae,ROU,37.5,68.97100840208152,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,71.0,67.0,,
+Klebsiella pneumoniae,RWA,24.23076923076923,56.60388679233962,2022.0,Equal-weight geometric mean: 3GC + fluoroquinolones,89.0,36.0,,
+Klebsiella pneumoniae,SAU,22.1091811414392,41.95235392680606,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,44.0,40.0,,
+Klebsiella pneumoniae,SDN,62.23821989528796,52.848841046895245,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,57.0,49.0,,
+Klebsiella pneumoniae,SGP,3.58796296296296,28.98275349237888,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,24.0,35.0,,
+Klebsiella pneumoniae,SRB,16.0,90.48756820690896,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,92.0,89.0,,
+Klebsiella pneumoniae,SVN,0.07645259938837,22.978250586152114,2021.0,Equal-weight geometric mean: 3GC + fluoroquinolones,22.0,24.0,,
+Klebsiella pneumoniae,SWE,5.4054054054054,8.12403840463596,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,6.0,11.0,,
+Klebsiella pneumoniae,THA,9.06735751295336,52.96225070746144,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,51.0,55.0,,
+Klebsiella pneumoniae,TTO,9.13770913770913,32.4037034920393,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,35.0,30.0,,
+Klebsiella pneumoniae,TUR,13.72217958557176,73.3621155638249,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,78.0,69.0,,
+Klebsiella pneumoniae,TWN,4.91803278688524,58.137767414994535,2016.0,Equal-weight geometric mean: 3GC + fluoroquinolones,65.0,52.0,,
+Klebsiella pneumoniae,TZA,34.57467159801046,52.24940191045253,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,65.0,42.0,,
+Klebsiella pneumoniae,UGA,21.6743119266055,50.438080851673966,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,48.0,53.0,,
+Klebsiella pneumoniae,USA,3.04611061087658,10.954451150103322,2016.0,Equal-weight geometric mean: 3GC + fluoroquinolones,12.0,10.0,,
+Klebsiella pneumoniae,VNM,8.944003372444321,47.37087712930804,2016.0,Equal-weight geometric mean: 3GC + fluoroquinolones,51.0,44.0,,
+Klebsiella pneumoniae,ZAF,15.536596317916478,43.58898943540674,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,50.0,38.0,,
+Klebsiella pneumoniae,ZMB,37.9020979020979,63.05553108173778,2023.0,Equal-weight geometric mean: 3GC + fluoroquinolones,71.0,56.0,,
+Staphylococcus aureus,AUS,0.02097438198739,16.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),3319.0
+Staphylococcus aureus,AUT,4.8780487804878,4.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1522.0
+Staphylococcus aureus,BEL,1.0752688172043,7.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1114.0
+Staphylococcus aureus,BGR,20.51282051282051,15.0,2021.0,Oxacillin (MRSA): single phenotype,,,European Antimicrobial Resistance Surveillance Network (EARS-Net),211.0
+Staphylococcus aureus,CAN,10.564027190887373,18.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),4877.0
+Staphylococcus aureus,HRV,3.27506530038175,27.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),606.0
+Staphylococcus aureus,CYP,3.85209997423344,53.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),83.0
+Staphylococcus aureus,CZE,51.24528301886792,28.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),172.0
+Staphylococcus aureus,DNK,0.004614807764414,2.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1860.0
+Staphylococcus aureus,FRA,1.53846153846153,11.0,2022.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),3873.0
+Staphylococcus aureus,DEU,1.0626398210290802,5.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1109.0
+Staphylococcus aureus,GRC,4.61538461538461,41.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),922.0
+Staphylococcus aureus,HUN,0.74626865671641,19.0,2021.0,Oxacillin (MRSA): single phenotype,,,European Antimicrobial Resistance Surveillance Network (EARS-Net),2359.0
+Staphylococcus aureus,IND,5.61586076971382,54.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),8373.0
+Staphylococcus aureus,IRL,1.33689839572192,10.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),947.0
+Staphylococcus aureus,ITA,0.41107588982008,29.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1412.0
+Staphylococcus aureus,KEN,17.5682585131404,38.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),63.0
+Staphylococcus aureus,LVA,5.26315789473684,3.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),234.0
+Staphylococcus aureus,NLD,0.40650406504065,1.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1576.0
+Staphylococcus aureus,NOR,100.0,2.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),382.0
+Staphylococcus aureus,POL,42.58555133079848,15.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),144.0
+Staphylococcus aureus,PRT,11.51603498542274,25.0,2021.0,Oxacillin (MRSA): single phenotype,,,European Antimicrobial Resistance Surveillance Network (EARS-Net),2873.0
+Staphylococcus aureus,ROU,37.5,41.0,2021.0,Oxacillin (MRSA): single phenotype,,,European Antimicrobial Resistance Surveillance Network (EARS-Net),461.0
+Staphylococcus aureus,SVN,0.07645259938837,8.0,2021.0,Oxacillin (MRSA): single phenotype,,,European Antimicrobial Resistance Surveillance Network (EARS-Net),768.0
+Staphylococcus aureus,ZAF,15.536596317916478,18.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),6874.0
+Staphylococcus aureus,ESP,2.8021379274557603,24.0,2021.0,Oxacillin (MRSA): single phenotype,,,European Antimicrobial Resistance Surveillance Network (EARS-Net),1792.0
+Staphylococcus aureus,SWE,5.4054054054054,2.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),7915.0
+Staphylococcus aureus,THA,9.06735751295336,8.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1054.0
+Staphylococcus aureus,GBR,24.35897435897435,10.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),3629.0
+Staphylococcus aureus,USA,3.04611061087658,45.0,2016.0,Oxacillin (MRSA): single phenotype,,,Becton Dickinson,15162.0
+Staphylococcus aureus,VNM,8.944003372444321,73.0,2016.0,Oxacillin (MRSA): single phenotype,,,Vietnam Resistance Project (VINARES),488.0
+Staphylococcus aureus,SRB,16.0,36.0,2021.0,Oxacillin (MRSA): single phenotype,,,Central Asian and European Surveillance of Antimicrobial Resistance (CAESAR),
+Staphylococcus aureus,TUR,13.72217958557176,33.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1234.0
+Staphylococcus aureus,DZA,16.45164241925153,46.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),439.0
+Staphylococcus aureus,ARG,52.79187817258884,36.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),2257.0
+Staphylococcus aureus,BGD,21.93052906334705,78.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),59.0
+Staphylococcus aureus,BRA,5.18485121731289,27.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1095.0
+Staphylococcus aureus,CHN,6.429101958136391,38.0,2017.0,Oxacillin (MRSA): single phenotype,,,China Antimicrobial Surveillance Network (CHINET),2385.0
+Staphylococcus aureus,COL,1.47234381217668,48.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),6171.0
+Staphylococcus aureus,ECU,9.12024862538847,41.0,2014.0,Oxacillin (MRSA): single phenotype,,,"Reference Laboratory for antimicrobial resistance at the National Institute of Public Health Research (INSPI), Ecuador",208.0
+Staphylococcus aureus,EGY,14.16628666970664,89.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,IDN,14.26775612822124,40.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),1362.0
+Staphylococcus aureus,JPN,12.40278346295538,33.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30226.0
+Staphylococcus aureus,JOR,1.92307692307692,79.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),910.0
+Staphylococcus aureus,KWT,32.52322178394197,45.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),67.0
+Staphylococcus aureus,LBN,8.20427367182905,50.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,MYS,48.94837476099426,20.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),3862.0
+Staphylococcus aureus,MEX,21.88425302826379,31.0,2015.0,Oxacillin (MRSA): single phenotype,,,Hospital Civil de Guadalajara (Fray Antonio Alcalde),62.0
+Staphylococcus aureus,MAR,11.35135135135135,22.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),365.0
+Staphylococcus aureus,PAK,20.17241379310344,71.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),354.0
+Staphylococcus aureus,PER,15.64885496183206,39.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),31.0
+Staphylococcus aureus,PHL,38.09523809523809,40.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),2248.0
+Staphylococcus aureus,SAU,22.1091811414392,50.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),301.0
+Staphylococcus aureus,SGP,3.58796296296296,24.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),423.0
+Staphylococcus aureus,KOR,2.15545258213993,45.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),832.0
+Staphylococcus aureus,TWN,4.91803278688524,67.0,2016.0,Oxacillin (MRSA): single phenotype,,,Taiwan National Institutes of Infectious Diseases and Vaccinology,281.0
+Staphylococcus aureus,LKA,29.457364341085267,49.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),691.0
+Staphylococcus aureus,GHA,7.89194915254237,48.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),143.0
+Staphylococcus aureus,ZMB,37.9020979020979,59.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),107.0
+Staphylococcus aureus,NGA,24.709246901811248,69.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),93.0
+Staphylococcus aureus,OMN,5.84307178631051,100.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,KHM,1.60274756725815,54.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),72.0
+Staphylococcus aureus,IRN,14.235229155162893,34.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),669.0
+Staphylococcus aureus,LAO,21.973094170403577,78.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),45.0
+Staphylococcus aureus,SDN,62.23821989528796,36.0,2021.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,ETH,23.34841628959276,50.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),92.0
+Staphylococcus aureus,MDG,37.22854188210961,36.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,NPL,43.61424847958297,78.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),569.0
+Staphylococcus aureus,IRQ,15.93781597573306,90.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),300.0
+Staphylococcus aureus,PSE,0.0,11.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),35.0
+Staphylococcus aureus,BEN,39.48863636363636,63.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),261.0
+Staphylococcus aureus,CMR,34.27866831072749,62.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,MOZ,6.08552631578947,17.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,SOM,24.0,47.0,2020.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,UGA,21.6743119266055,75.0,2020.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),30.0
+Staphylococcus aureus,TZA,34.57467159801046,68.0,2023.0,Oxacillin (MRSA): single phenotype,,,Global Antimicrobial Resistance Surveillance System (GLASS),674.0

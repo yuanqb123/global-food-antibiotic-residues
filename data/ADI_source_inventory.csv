@@ -1,0 +1,22 @@
+antibiotic_std,ADI_ugkg_bw_day,source_url,note,authority,evaluation_year,unit
+tetracycline,30.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/44/,group: tetracycline+oxytetracycline+chlortetracycline,JECFA,,ug/kg_bw/day
+oxytetracycline,30.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/37/,group: tetracycline+oxytetracycline+chlortetracycline,JECFA,,ug/kg_bw/day
+chlortetracycline,30.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/13/,group: tetracycline+oxytetracycline+chlortetracycline,JECFA,,ug/kg_bw/day
+enrofloxacin,2.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/63/,full ADI; marker residue caveat,JECFA,,ug/kg_bw/day
+danofloxacin,20.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/16/,full ADI,JECFA,,ug/kg_bw/day
+sulfamethazine,50.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/42/,sulfadimidine synonym,JECFA,,ug/kg_bw/day
+amoxicillin,2.0,https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/6066,2017 microbiological ADI,JECFA,,ug/kg_bw/day
+erythromycin,0.7,https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/3938,2006 microbiological ADI,JECFA,,ug/kg_bw/day
+tylosin,30.0,https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/520,"JECFA 2008 microbiological ADI, 0–30 µg/kg bw/day",JECFA,,ug/kg_bw/day
+streptomycin,50.0,https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/2534,"JECFA 2002 group ADI for streptomycin + dihydrostreptomycin, 0–50 µg/kg bw/day",JECFA,,ug/kg_bw/day
+neomycin,60.0,https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/2243,"JECFA 2003 ADI, 0–60 µg/kg bw/day",JECFA,,ug/kg_bw/day
+gentamicin,20.0,https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/2058,microbiological; original 0–0.02 mg/kg bw converted to µg,JECFA,1999.0,ug/kg_bw/day
+tilmicosin,40.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/46/,Full ADI; parent drug,JECFA,2008.0,ug/kg_bw/day
+flumequine,30.0,https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/1488,re-established full ADI; hepatotoxicity endpoint,JECFA,2006.0,ug/kg_bw/day
+sarafloxacin,0.3,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/51/,Full ADI,JECFA,1998.0,ug/kg_bw/day
+lincomycin,30.0,https://inchem.org/documents/jecfa/jeceval/jec_1284.htm,JECFA 0–0.03 mg/kg bw; 2000 ADI retained in 2004 evaluation,JECFA_IPCS,2004.0,ug/kg_bw/day
+thiamphenicol,5.0,https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-vetdrugs/details/en/c/45/,"Full ADI; 0–5 µg/kg, not previous temporary 6",JECFA,2002.0,ug/kg_bw/day
+doxycycline,3.0,https://www.ema.europa.eu/en/documents/mrl-report/doxycycline-all-food-producing-species-european-public-maximum-residue-limit-assessment-report-epmar-cvmp_en.pdf,EMA/CVMP/347870/2014; overall microbiological ADI,EMA,2015.0,ug/kg_bw/day
+florfenicol,3.0,https://www.ema.europa.eu/en/documents/mrl-report/florfenicol-extension-all-food-producing-species-summary-report-6-committee-veterinary-medicinal_en.pdf,microbiological 180 µg/person/day for reference 60 kg; parent is relevant microbiologically active residue,EMA,2002.0,ug/kg_bw/day
+trimethoprim,4.2,https://www.ema.europa.eu/en/documents/mrl-report/trimethoprim-extension-all-food-producing-species-summary-report-3-committee-veterinary-medicinal-products_en.pdf,overall microbiological 252 µg/person/day for reference 60 kg,EMA,2002.0,ug/kg_bw/day
+oxolinic acid,2.5,https://www.ema.europa.eu/en/documents/mrl-report/oxolinic-acid-summary-report-2-committee-veterinary-medicinal-products_en.pdf,microbiological ADI 150 µg/person/day for reference 60 kg,EMA,2001.0,ug/kg_bw/day

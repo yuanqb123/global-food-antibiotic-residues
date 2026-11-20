@@ -1,0 +1,18 @@
+variable,label,unit,transform,applicable_foods,missing_handling
+reported_vet_AMU_kg_food_scope,Reported veterinary antimicrobial use,kg,log1p_z,all,training-split median + missingness indicator
+modelled_2020_vet_AMU_mg_PCU,Modelled veterinary use in 2020,mg/PCU,raw_z,all,training-split median + missingness indicator
+EMA_vet_AMU_mg_PCU,EMA veterinary antimicrobial intensity,mg/PCU,raw_z,all,training-split median + missingness indicator
+production_intensity_proxy,Food production per 1000 people,tonnes per 1000 people,log1p_z,all,training-split median + missingness indicator
+aquaculture_production_tonnes,Aquaculture production,tonnes,log1p_z,aquatic products only,training-split median + missingness indicator
+aquaculture_share_pct,Aquaculture share,percent,raw_z,aquatic products only,training-split median + missingness indicator
+TrACSS_vet_regulatory_stage_score,Veterinary regulatory implementation,ordinal score,raw_z,all,training-split median + missingness indicator
+GDP_per_capita_current_USD,GDP per capita,current USD/person,log1p_z,all,training-split median + missingness indicator
+rural_population_pct,Rural population share,percent,raw_z,all,training-split median + missingness indicator
+agriculture_value_added_pct_GDP,Agricultural value added,percent GDP,raw_z,all,training-split median + missingness indicator
+access_to_electricity_pct,Electricity access,percent,raw_z,all,training-split median + missingness indicator
+safely_managed_drinking_water_pct,Safe drinking water,percent,raw_z,all,training-split median + missingness indicator
+safely_managed_sanitation_pct,Safe sanitation,percent,raw_z,all,training-split median + missingness indicator
+human_total_DDD_per_1000_day,Human antibiotic consumption,DDD/1000 people/day,raw_z,all,training-split median + missingness indicator
+freshwater_withdrawal_stress_pct,Freshwater withdrawal stress,percent,log1p_z,aquatic products only,training-split median + missingness indicator
+WGI_Government_Effectiveness,Government effectiveness,WGI estimate,raw_z,all,training-split median + missingness indicator
+WGI_Control_of_Corruption,Control of corruption,WGI estimate,raw_z,all,training-split median + missingness indicator

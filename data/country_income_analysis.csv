@@ -1,0 +1,133 @@
+country_iso3,k,n,n_sources,value,income_group,income_code,source_url,classification_snapshot,endpoint,n_statistics
+ARG,312.0,591.0,2,0.5279187817258884,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+AUS,43.0,205012.0,1,0.0002097438198739,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+AUT,6.0,123.0,1,0.048780487804878,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+BEL,7.0,651.0,1,0.010752688172043,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+BEN,139.0,352.0,1,0.3948863636363636,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+BGD,4369.0,19922.0,18,0.2193052906334705,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+BGR,96.0,468.0,2,0.2051282051282051,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+BRA,2990.0,57668.0,34,0.0518485121731289,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+CAN,575.0,5443.0,8,0.1056402719088737,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+CHL,24.0,131.0,2,0.183206106870229,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+CHN,38086.0,592400.0,175,0.0642910195813639,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+CMR,278.0,811.0,2,0.3427866831072749,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+COL,37.0,2513.0,4,0.0147234381217668,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+CUB,2.0,10.0,2,0.2,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+CYP,598.0,15524.0,2,0.0385209997423344,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+CZE,1358.0,2650.0,3,0.5124528301886793,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+DEU,19.0,1788.0,3,0.0106263982102908,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+DNK,8.0,173355.0,1,4.614807764414064e-05,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+DOM,9.0,136.0,1,0.0661764705882353,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+DZA,1798.0,10929.0,9,0.1645164241925153,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+ECU,763.0,8366.0,3,0.0912024862538847,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+EGY,932.0,6579.0,14,0.1416628666970664,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+ESP,540.0,19271.0,21,0.0280213792745576,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+ETH,516.0,2210.0,3,0.2334841628959276,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+FRA,3.0,195.0,2,0.0153846153846153,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+GBR,19.0,78.0,2,0.2435897435897435,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+GHA,149.0,1888.0,4,0.0789194915254237,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+GRC,6.0,130.0,4,0.0461538461538461,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+GTM,0.0,3.0,1,0.0,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+HRV,163.0,4977.0,4,0.0327506530038175,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+HUN,1.0,134.0,1,0.0074626865671641,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+IDN,227.0,1591.0,6,0.1426775612822124,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+IND,626.0,11147.0,16,0.0561586076971382,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+IRL,15.0,1122.0,1,0.0133689839572192,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+IRN,2578.0,18110.0,25,0.1423522915516289,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+IRQ,1261.0,7912.0,6,0.1593781597573306,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+ITA,284.0,69087.0,11,0.0041107588982008,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+JOR,2.0,104.0,1,0.0192307692307692,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+JPN,303.0,2443.0,6,0.1240278346295538,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+KAZ,222.0,615.0,3,0.3609756097560975,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+KEN,1718.0,9779.0,7,0.175682585131404,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+KHM,84.0,5241.0,1,0.0160274756725815,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+KOR,1028.0,47693.0,10,0.0215545258213993,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+KWT,2556.0,7859.0,3,0.3252322178394197,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+LAO,49.0,223.0,1,0.2197309417040358,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+LBN,837.0,10202.0,10,0.0820427367182905,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+LKA,152.0,516.0,1,0.2945736434108527,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+LVA,1.0,19.0,1,0.0526315789473684,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+MAR,21.0,185.0,1,0.1135135135135135,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+MDG,1080.0,2901.0,1,0.3722854188210961,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+MEX,813.0,3715.0,6,0.2188425302826379,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+MNG,0.0,50.0,1,0.0,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+MOZ,74.0,1216.0,2,0.0608552631578947,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+MYS,512.0,1046.0,4,0.4894837476099426,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+NER,19.0,192.0,1,0.0989583333333333,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+NGA,1296.0,5245.0,9,0.2470924690181125,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+NLD,1.0,246.0,2,0.0040650406504065,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+NOR,4.0,4.0,1,1.0,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+NPL,1004.0,2302.0,4,0.4361424847958297,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+NZL,0.0,9.0,1,0.0,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+OMN,35.0,599.0,3,0.0584307178631051,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+PAK,351.0,1740.0,9,0.2017241379310344,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+PER,123.0,786.0,3,0.1564885496183206,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+PHL,48.0,126.0,1,0.3809523809523809,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+POL,336.0,789.0,6,0.4258555133079847,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+PRT,79.0,686.0,5,0.1151603498542274,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+PRY,30.0,162.0,1,0.1851851851851851,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+PSE,0.0,45.0,1,0.0,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+ROU,6.0,16.0,1,0.375,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+RWA,756.0,3120.0,1,0.2423076923076923,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SAU,891.0,4030.0,5,0.221091811414392,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SDN,951.0,1528.0,1,0.6223821989528796,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SEN,64.0,82.0,1,0.7804878048780488,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SGP,62.0,1728.0,1,0.0358796296296296,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SLV,1.0,2.0,1,0.5,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SOM,24.0,100.0,1,0.24,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SRB,8.0,50.0,1,0.16,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SVN,2.0,2616.0,1,0.0007645259938837,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+SWE,12.0,222.0,2,0.054054054054054,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+TCD,132.0,393.0,1,0.3358778625954198,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+TGO,43.0,87.0,1,0.4942528735632184,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+THA,70.0,772.0,6,0.0906735751295336,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+TTO,71.0,777.0,2,0.0913770913770913,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+TUR,894.0,6515.0,21,0.1372217958557176,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+TWN,96.0,1952.0,5,0.0491803278688524,,,,,occurrence,
+TZA,2711.0,7841.0,7,0.3457467159801046,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+UGA,189.0,872.0,2,0.216743119266055,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+URY,0.0,6.0,1,0.0,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+USA,39953.0,1311607.0,12,0.0304611061087658,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+VNM,1273.0,14233.0,7,0.0894400337244432,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+ZAF,346.0,2227.0,6,0.1553659631791648,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+ZMB,542.0,1430.0,2,0.379020979020979,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,occurrence,
+BGD,,,5,15.55,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,85.0
+BRA,,,7,0.1699999999999999,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,36.0
+CAN,,,1,19.5,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,2.0
+CHN,,,29,3.685,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,376.0
+CMR,,,1,102.5,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,2.0
+CZE,,,1,8.23,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,5.0
+EGY,,,5,173.4,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,47.0
+ESP,,,2,7.2,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,3.0
+ETH,,,2,109.255,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,6.0
+GHA,,,2,27.1,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,47.0
+HRV,,,1,2.45,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,25.0
+HUN,,,1,9055.0,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,2.0
+IDN,,,2,52.11,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,14.0
+IND,,,5,94.8,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,21.0
+IRN,,,5,103.38,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,9.0
+IRQ,,,1,47.425,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,2.0
+ITA,,,2,8.22,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,14.0
+JPN,,,2,11.15,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,2.0
+KEN,,,3,8.01,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,67.0
+KHM,,,1,0.162,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,3.0
+KOR,,,2,4.0,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,33.0
+KWT,,,1,125.785,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,12.0
+LBN,,,3,1.16,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,47.0
+LKA,,,1,5.9,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,3.0
+MEX,,,2,423.585,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,16.0
+MOZ,,,1,150.57,Low income,LIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,5.0
+MYS,,,2,1.25,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,25.0
+NGA,,,4,51.275,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,72.0
+OMN,,,2,45.1785,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,112.0
+PAK,,,2,61.56,Lower middle income,LMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,5.0
+POL,,,1,9.4,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,1.0
+PRT,,,2,8.8,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,11.0
+ROU,,,1,0.955,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,1.0
+SAU,,,2,207.0,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,27.0
+SGP,,,1,6.35,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,7.0
+THA,,,1,46100.0,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,2.0
+TUR,,,7,3.235,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,18.0
+TWN,,,2,22.0,,,,,concentration,6.0
+USA,,,1,47.0,High income,HIC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,5.0
+ZAF,,,2,74.4,Upper middle income,UMC,https://api.worldbank.org/v2/country?format=json&per_page=400,2026-10-09,concentration,30.0
