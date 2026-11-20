@@ -1,0 +1,66 @@
+{
+  "random_seed": 20261110,
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "candidate_C": [
+    10,
+    100
+  ],
+  "national_indicators": [
+    "reported_vet_AMU_kg_food_scope",
+    "modelled_2020_vet_AMU_mg_PCU",
+    "EMA_vet_AMU_mg_PCU",
+    "production_intensity_proxy",
+    "aquaculture_production_tonnes",
+    "aquaculture_share_pct",
+    "TrACSS_vet_regulatory_stage_score",
+    "GDP_per_capita_current_USD",
+    "rural_population_pct",
+    "agriculture_value_added_pct_GDP",
+    "access_to_electricity_pct",
+    "safely_managed_drinking_water_pct",
+    "safely_managed_sanitation_pct",
+    "human_total_DDD_per_1000_day",
+    "freshwater_withdrawal_stress_pct",
+    "WGI_Government_Effectiveness",
+    "WGI_Control_of_Corruption"
+  ],
+  "indicator_transforms": {
+    "reported_vet_AMU_kg_food_scope": "log1p_z",
+    "modelled_2020_vet_AMU_mg_PCU": "raw_z",
+    "EMA_vet_AMU_mg_PCU": "raw_z",
+    "production_intensity_proxy": "log1p_z",
+    "aquaculture_production_tonnes": "log1p_z",
+    "aquaculture_share_pct": "raw_z",
+    "TrACSS_vet_regulatory_stage_score": "raw_z",
+    "GDP_per_capita_current_USD": "log1p_z",
+    "rural_population_pct": "raw_z",
+    "agriculture_value_added_pct_GDP": "raw_z",
+    "access_to_electricity_pct": "raw_z",
+    "safely_managed_drinking_water_pct": "raw_z",
+    "safely_managed_sanitation_pct": "raw_z",
+    "human_total_DDD_per_1000_day": "raw_z",
+    "freshwater_withdrawal_stress_pct": "log1p_z"
+  },
+  "aquatic_only": [
+    "aquaculture_production_tonnes",
+    "aquaculture_share_pct",
+    "freshwater_withdrawal_stress_pct"
+  ],
+  "RQ_target": "log10(1 + RQ_res)",
+  "HQ_MRL_target": "available-pathway HQ > 0.1 or C/MRL > 1",
+  "weights": "country/source/frame/underlying-record/statistic hierarchy",
+  "calibration_seed_rule": "111010 + outer_fold + 77",
+  "bootstrap_draws": 1000,
+  "shap_coalitions": 1024,
+  "direction_filtering": false,
+  "risk": {
+    "body_weight_kg": 60,
+    "attenuation_primary": 100,
+    "attenuation_sensitivity": [
+      10,
+      1000
+    ],
+    "colon_throughput_L_day": 0.5
+  }
+}

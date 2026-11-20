@@ -1,0 +1,105 @@
+{
+  "provenance": "Counts and labels transcribed from manuscript Figure 1 for plotting.",
+  "main_nodes": [
+    {
+      "label": "Records identified from five databases",
+      "n": 108789,
+      "note": "Europe PMC/MEDLINE 19,471 | Web of Science 34,135\nScopus 38,085 | CNKI 2,098 | OpenAlex 15,000",
+      "height": 1.5
+    },
+    {
+      "label": "Records screened by title",
+      "n": 61736,
+      "note": "",
+      "height": 1.0
+    },
+    {
+      "label": "Records screened by abstract",
+      "n": 36576,
+      "note": "",
+      "height": 1.0
+    },
+    {
+      "label": "Records advanced to report matching",
+      "n": 5303,
+      "note": "Crosswalk yielded 5,247 linked report/candidate IDs",
+      "height": 1.18
+    },
+    {
+      "label": "Report/candidate IDs assembled",
+      "n": 5971,
+      "note": "5,247 screened-linked IDs + 724 additional candidates",
+      "height": 1.18
+    },
+    {
+      "label": "Reports sought for full-text retrieval",
+      "n": 5171,
+      "note": "",
+      "height": 1.0
+    },
+    {
+      "label": "Reports assessed for eligibility",
+      "n": 4845,
+      "note": "",
+      "height": 1.0
+    },
+    {
+      "label": "Independent studies included",
+      "n": 1359,
+      "note": "18,512 antibiotic-residue outcome records extracted",
+      "height": 1.18
+    }
+  ],
+  "side_nodes": [
+    {
+      "label": "Duplicate records removed",
+      "n": 47053,
+      "note": "",
+      "row": 0,
+      "height": 1.0
+    },
+    {
+      "label": "Excluded after title screening",
+      "n": 25160,
+      "note": "",
+      "row": 1,
+      "height": 1.0
+    },
+    {
+      "label": "Excluded after abstract\nscreening",
+      "n": 31273,
+      "note": "",
+      "row": 2,
+      "height": 1.18
+    },
+    {
+      "label": "Additional report candidates",
+      "n": 724,
+      "note": "Citation tracing / later screening",
+      "row": 3,
+      "height": 1.18
+    },
+    {
+      "label": "Duplicate or ineligible",
+      "n": 800,
+      "note": "Candidate IDs removed before retrieval",
+      "row": 4,
+      "height": 1.18
+    },
+    {
+      "label": "Full texts not retrieved",
+      "n": 326,
+      "note": "",
+      "row": 5,
+      "height": 1.0
+    },
+    {
+      "label": "Excluded after full-text\nassessment",
+      "n": 3486,
+      "note": "Spiking / method validation;\ncontrolled dosing / depletion;\nnon-animal food / non-food matrices;\nreviews; other ineligible studies.",
+      "row": 6,
+      "y": 3.3,
+      "height": 2.2
+    }
+  ]
+}
