@@ -1,0 +1,4 @@
+species,metric,n_countries,rho,p,CI_low,CI_high,year_min,year_max,adjustment,bootstrap_resamples
+Escherichia coli,Equal-weight geometric mean: 3GC + fluoroquinolones,80,0.3499416890886818,0.0014628062875969,0.1256152613944685,0.5581205152236514,2014,2023,none,2000
+Klebsiella pneumoniae,Equal-weight geometric mean: 3GC + fluoroquinolones,78,0.3523862515491034,0.0015556475517669,0.1182953466837295,0.5432939773482748,2014,2023,none,2000
+Staphylococcus aureus,Oxacillin (MRSA): single phenotype,76,0.3326724145425266,0.0033222954322359,0.0968753573642829,0.5303320429597501,2014,2023,none,2000

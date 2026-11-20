@@ -1,0 +1,293 @@
+food_group,antibiotic_std,n_units,n_sources,n_DOI,n_countries,n_years,year_min,year_max,status,OR,CI_low,CI_high,p,beta,se,q,positive_estimable,positive_FDR_significant
+aquatic products,amoxicillin,26,5,5,5,4,1998.0,2022.0,rank_deficient,,,,,,,,False,False
+aquatic products,ampicillin,12,4,4,3,4,1998.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,azithromycin,8,5,5,2,5,2016.0,2024.0,estimable,0.4923110299628735,0.1489378055063108,1.6273245694682648,0.245345139480546,-0.7086445875068051,0.6099907578470057,1.0,False,False
+aquatic products,benzylpenicillin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,cefalexin,4,2,2,2,2,1998.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,cefquinome,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,ceftiofur,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,chloramphenicol,110,26,26,11,14,1998.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,chlortetracycline,32,14,14,8,8,2014.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,ciprofloxacin,73,25,25,7,11,2011.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,clarithromycin,6,3,3,2,3,2016.0,2018.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,clindamycin,4,2,2,2,2,1998.0,2017.0,rank_deficient,,,,,,,,False,False
+aquatic products,cloxacillin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,colistin,5,2,2,2,2,1998.0,2022.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,danofloxacin,5,3,3,2,2,2014.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,difloxacin,9,4,4,3,4,1998.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,difluaxacin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,doxycycline,19,13,13,8,8,1998.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,enrofloxacin,81,30,30,10,12,2011.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,erythromycin,14,8,8,7,6,1998.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,florfenicol,32,15,15,7,10,1998.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,flumequine,11,7,7,6,6,1998.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,furaltadone,21,2,2,2,2,2016.0,2020.0,rank_deficient,,,,,,,,False,False
+aquatic products,furazolidone,45,8,8,4,6,2016.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,gentamicin,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,lasalocid,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,lincomycin,8,4,4,4,4,1998.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,lomefloxacin,21,11,11,1,4,2020.0,2024.0,estimable,3.825789986036104,0.4162706853075733,35.161421483329825,0.2357839025631668,1.341764978250661,1.1317267973164609,1.0,True,False
+aquatic products,marbofloxacin,4,2,2,1,2,2014.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,metronidazole,2,2,2,2,2,2018.0,2025.0,rank_deficient,,,,,,,,False,False
+aquatic products,monensin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,nalidixic acid,6,4,4,3,4,1998.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,neomycin,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,nitrofurantoin,3,3,3,3,2,2018.0,2020.0,rank_deficient,,,,,,,,False,False
+aquatic products,nitrofurazone,13,3,3,3,3,2016.0,2020.0,rank_deficient,,,,,,,,False,False
+aquatic products,norfloxacin,38,21,21,4,12,1998.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,ofloxacin,53,23,23,7,10,1998.0,2025.0,estimable,2.072723863681872,0.9305602962141056,4.616771457534687,0.0744463199380146,0.7288636184457857,0.4085877671657207,1.0,True,False
+aquatic products,oxytetracycline,61,22,22,11,11,2009.0,2024.0,estimable,1.8607865491421685,0.4771100346731195,7.257291462839776,0.3711576064830461,0.6209992742211887,0.6943915348271639,1.0,True,False
+aquatic products,penicillin v,1,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,roxithromycin,7,5,5,3,5,2016.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sarafloxacin,7,4,4,2,3,2020.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,spectinomycin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,spiramycin,7,3,3,2,3,1998.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sulfadiazine,23,12,12,6,9,2009.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sulfadimethoxine,20,5,5,5,5,2009.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sulfaguanidine,1,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,sulfamerazine,6,3,3,2,3,2016.0,2018.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sulfamethazine,21,8,8,5,6,2016.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sulfamethoxazole,32,11,11,6,7,2014.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sulfamonomethoxine,5,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,sulfapyridine,1,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+aquatic products,sulfaquinoxaline,5,2,2,1,2,2016.0,2017.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,sulfathiazole,7,4,4,4,4,2009.0,2018.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,tetracycline,66,21,21,14,13,2005.0,2024.0,estimable,0.3737212398304072,0.1808448733632662,0.7723059133660045,0.0078684183287543,-0.984245107524602,0.3703421229150222,0.255286461332919,False,False
+aquatic products,thiamphenicol,15,9,9,3,7,1998.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,tilmicosin,4,2,2,1,2,2014.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,trimethoprim,28,13,13,6,12,1998.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+aquatic products,tylosin,4,3,3,3,3,2017.0,2020.0,rank_deficient,,,,,,,,False,False
+egg,amoxicillin,4,3,3,2,2,2018.0,2020.0,rank_deficient,,,,,,,,False,False
+egg,ampicillin,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,azithromycin,3,1,1,1,3,2018.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,cefalexin,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,cefquinome,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,ceftiofur,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,chloramphenicol,9,6,5,2,6,1998.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,chlortetracycline,10,6,5,2,4,2020.0,2024.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,ciprofloxacin,14,10,9,2,5,2019.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,clarithromycin,1,1,1,1,1,2009.0,2009.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,cloxacillin,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,danofloxacin,10,6,5,2,4,2019.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,difloxacin,5,4,4,2,2,2020.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,doxycycline,15,10,9,3,4,2020.0,2024.0,estimable,2.363636200098826,0.326298977984164,17.121647517660186,0.3945188395334165,0.8602011960341509,1.0102767365089218,1.0,True,False
+egg,enrofloxacin,25,16,15,5,7,1998.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,erythromycin,6,4,4,3,4,2009.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,florfenicol,21,11,10,2,6,2018.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,flumequine,3,3,3,2,2,2020.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,furazolidone,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,gamithromycin,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,lasalocid,1,1,1,1,1,2009.0,2009.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,lincomycin,6,4,4,3,4,2009.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,lomefloxacin,11,6,5,1,6,2018.0,2024.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,marbofloxacin,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,metronidazole,4,3,3,1,3,2018.0,2022.0,estimable,0.0097527250315557,0.001637776669609,0.0580760779574635,3.649048781555449e-07,-4.630208542606582,0.910309746724624,5.3276112210709545e-05,False,False
+egg,monensin,1,1,1,1,1,2009.0,2009.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,nalidixic acid,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,neomycin,1,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,norfloxacin,11,8,7,2,5,2019.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,ofloxacin,14,10,9,1,6,2018.0,2024.0,estimable,0.0192525080834714,0.0020773563563654,0.1784282539528422,0.000506611637502,-3.950113936684892,1.1359924691244505,0.0369826495376486,False,False
+egg,oxytetracycline,23,10,9,4,6,2010.0,2024.0,estimable,0.2899758628143833,0.0028873623848185,29.122080919617805,0.5986133071609194,-1.2379575911401055,2.351762383707728,1.0,False,False
+egg,penicillin v,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,salinomycin,1,1,1,1,1,2009.0,2009.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,sarafloxacin,11,6,5,2,5,2018.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,spiramycin,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,sulfadiazine,3,3,3,2,2,2019.0,2020.0,rank_deficient,,,,,,,,False,False
+egg,sulfadimethoxine,9,4,4,2,3,2018.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,sulfadoxine,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,sulfaguanidine,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,sulfamerazine,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,sulfamethazine,3,3,3,2,2,2019.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,sulfamethoxazole,8,5,5,2,3,2018.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,sulfamonomethoxine,7,4,4,2,3,2018.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,sulfapyridine,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,sulfaquinoxaline,7,4,4,2,3,2018.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,sulfathiazole,2,2,2,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,tetracycline,35,15,14,8,9,2005.0,2024.0,estimable,1.1131143511138335,0.3559419314469683,3.480971049459435,0.8538416914252928,0.1071618083580462,0.5817089202580022,1.0,True,False
+egg,thiamphenicol,7,4,3,2,3,2020.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,tilmicosin,5,3,3,2,3,2018.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+egg,trimethoprim,3,3,3,2,2,2012.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+egg,tylosin,7,5,5,4,5,2009.0,2023.0,complete_or_quasi_separation,,,,,,,,False,False
+honey,amikacin,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,bacitracin,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,ceftiofur,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,chloramphenicol,5,5,5,5,4,2014.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+honey,chlortetracycline,2,2,2,2,2,2008.0,2020.0,rank_deficient,,,,,,,,False,False
+honey,ciprofloxacin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,doxycycline,2,2,2,2,2,2008.0,2020.0,rank_deficient,,,,,,,,False,False
+honey,enrofloxacin,2,2,2,2,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,erythromycin,13,5,5,4,4,2016.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+honey,florfenicol,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,furazolidone,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,marbofloxacin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,nitrofurazone,1,1,1,1,1,2022.0,2022.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,norfloxacin,9,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,ofloxacin,9,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,oxytetracycline,5,4,4,4,3,2008.0,2020.0,rank_deficient,,,,,,,,False,False
+honey,spectinomycin,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,spiramycin,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,streptomycin,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfadiazine,2,2,2,2,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfadimethoxine,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfadoxine,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfaguanidine,1,1,1,1,1,2008.0,2008.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfamerazine,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfamethazine,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfamethoxazole,2,2,2,2,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfamonomethoxine,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfapyridine,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfaquinoxaline,2,2,2,2,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,sulfathiazole,10,3,3,8,2,2008.0,2020.0,rank_deficient,,,,,,,,False,False
+honey,tetracycline,43,8,8,18,4,2008.0,2021.0,estimable,2.0138257396725696,0.576244777546099,7.037797595386168,0.2728371026810086,0.7000362660606415,0.6383974559182215,1.0,True,False
+honey,thiamphenicol,7,2,2,2,2,2018.0,2020.0,rank_deficient,,,,,,,,False,False
+honey,tobramycin,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+honey,trimethoprim,27,2,2,14,2,2008.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+honey,tylosin,8,3,3,2,3,2008.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+honey,virginiamycin,6,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,amoxicillin,20,7,7,5,5,2012.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,ampicillin,10,2,2,2,2,2019.0,2022.0,rank_deficient,,,,,,,,False,False
+meat,azithromycin,9,4,4,1,4,2016.0,2026.0,estimable,0.1503116314701819,0.0081850791268128,2.7603381965135974,0.2018802468854126,-1.8950445968597016,1.4848968388013566,1.0,False,False
+meat,benzylpenicillin,3,1,1,1,1,2009.0,2009.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,ceftiofur,4,2,2,2,2,2016.0,2025.0,rank_deficient,,,,,,,,False,False
+meat,chloramphenicol,24,12,12,5,8,2002.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,chlortetracycline,21,10,10,4,8,2012.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,ciprofloxacin,46,18,18,8,9,2012.0,2024.0,estimable,0.2052201340122962,0.0480890211287646,0.8757779305021747,0.032421969009026,-1.5836720515305684,0.7403210853848484,0.860655904603237,False,False
+meat,clarithromycin,9,4,4,1,4,2016.0,2026.0,estimable,0.1026782185231669,0.0015021602935599,7.018436450683979,0.2909697683033121,-2.2761552729235617,2.155457009352532,1.0,False,False
+meat,danofloxacin,9,3,3,1,3,2017.0,2020.0,estimable,1460.0362162109498,13.305976638361056,160206.63575358246,0.0023673626754677,7.286216520018666,2.3969404155217666,0.1382539802473167,True,False
+meat,difloxacin,8,4,4,1,3,2017.0,2020.0,nonconverged_or_boundary,,,,,,,,False,False
+meat,dimetridazole,1,1,1,1,1,2024.0,2024.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,doxycycline,37,17,17,8,10,2012.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,enrofloxacin,41,20,20,8,10,2012.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,erythromycin,14,8,8,5,7,2008.0,2026.0,estimable,2.5481136112277625,0.6059888353604117,10.714525741819234,0.201797725599516,0.9353533251098252,0.7327791029030781,1.0,True,False
+meat,florfenicol,9,7,7,3,5,2002.0,2024.0,estimable,4.415914179202456,1.366289739447109,14.27244710625757,0.0130851449149784,1.4852148747285356,0.598528585781053,0.3820862315173703,True,False
+meat,flumequine,4,4,4,1,3,2017.0,2019.0,estimable,0.0576330411457337,6.380932567917379e-05,52.05457660540574,0.4111873216511277,-2.8536592447413422,3.472424470935761,1.0,False,False
+meat,furazolidone,17,1,1,1,2,2003.0,2004.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,gentamicin,14,5,5,5,6,2008.0,2020.0,point_only_collapsed_cluster_variance,0.0244717604924287,,,,-3.71023545918581,,,False,False
+meat,lincomycin,4,3,3,3,3,2008.0,2017.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,lomefloxacin,10,6,6,1,5,2017.0,2024.0,estimable,0.5387707157595915,0.097424590432599,2.979472460404355,0.4784508137227796,-0.6184651867774967,0.87255685964989,1.0,False,False
+meat,metronidazole,3,3,3,1,3,2017.0,2019.0,estimable,0.0437718748478365,0.0014249708646614,1.344572773528196,0.0733641503333754,-3.128763794613146,1.7473674064842026,1.0,False,False
+meat,neomycin,1,1,1,1,1,2008.0,2008.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,nitrofurazone,3,1,1,1,1,2022.0,2022.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,norfloxacin,21,10,10,1,7,2016.0,2024.0,estimable,0.2660293417077101,0.0222009836604501,3.1877691426580115,0.2960033868327349,-1.324148669111984,1.2670765372164543,1.0,False,False
+meat,ofloxacin,28,14,14,2,7,2016.0,2024.0,estimable,0.0708590621249043,0.0017697671774332,2.8371001277711434,0.1596983373359897,-2.6470624152391715,1.8825739101951204,1.0,False,False
+meat,oxytetracycline,39,17,17,7,9,2015.0,2024.0,estimable,1.675344340964872,0.0780265314021724,35.97210603065298,0.74155336416999,0.5160187208444824,1.564655655506085,1.0,True,False
+meat,penicillin,8,4,4,4,4,2016.0,2025.0,point_only_collapsed_cluster_variance,0.7118190773168637,,,,-0.339931504752325,,,False,False
+meat,roxithromycin,8,3,3,1,3,2016.0,2020.0,estimable,0.1652748679917987,0.0024429602456436,11.181427138823452,0.4024815405127493,-1.800145324481321,2.150203793428125,1.0,False,False
+meat,sarafloxacin,10,4,4,1,4,2017.0,2020.0,estimable,6.587674712017136,0.0358790208507999,1209.549677841403,0.4784297730167506,1.8852004352641167,2.6595933505010696,1.0,True,False
+meat,spiramycin,2,2,2,2,2,2008.0,2026.0,rank_deficient,,,,,,,,False,False
+meat,streptomycin,18,6,6,6,5,2013.0,2025.0,estimable,2.303416439255229,0.2354978672402727,22.529831606576444,0.4732846144334194,0.8343934291791989,1.1634932913522686,1.0,True,False
+meat,sulfadiazine,16,7,7,4,6,2016.0,2024.0,nonconverged_or_boundary,,,,,,,,False,False
+meat,sulfadimethoxine,15,4,4,3,4,2015.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,sulfadoxine,1,1,1,1,1,2019.0,2019.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,sulfamerazine,14,4,4,2,4,2017.0,2022.0,estimable,0.0297810029664903,0.0001529477963333,5.798763754378257,0.1913851123885361,-3.5138845730962807,2.689555776598474,1.0,False,False
+meat,sulfamethazine,24,8,8,3,6,2014.0,2022.0,estimable,1.318202116975837,0.0670127225336758,25.93025257743192,0.855771596064267,0.276268775594711,1.5199701860459731,1.0,True,False
+meat,sulfamethoxazole,22,9,9,4,8,2016.0,2025.0,estimable,0.3112986250954724,0.0351882747082386,2.753952411416257,0.2940802872453157,-1.1670026181987692,1.1122651727299255,1.0,False,False
+meat,sulfamonomethoxine,7,3,3,2,3,2019.0,2023.0,estimable,0.2668532528995918,0.0105557806858391,6.746129036066877,0.4227696384344818,-1.321056386283631,1.6479720665966808,1.0,False,False
+meat,sulfapyridine,1,1,1,1,1,2019.0,2019.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,sulfaquinoxaline,18,7,7,4,6,2013.0,2022.0,estimable,5.966652869931834,0.0499626054090362,712.5518410980818,0.4641669266506528,1.786186111873999,2.4401359984989144,1.0,True,False
+meat,sulfathiazole,1,1,1,1,1,2019.0,2019.0,constant_or_no_time_variation,,,,,,,,False,False
+meat,tetracycline,97,31,31,16,15,1996.0,2025.0,estimable,1.0715050738174003,0.6902784985138286,1.663275222520106,0.7582019921455567,0.0690642711675073,0.2243491902841141,1.0,True,False
+meat,thiamphenicol,7,5,5,3,5,2002.0,2025.0,complete_or_quasi_separation,,,,,,,,False,False
+meat,tilmicosin,20,10,10,7,8,2008.0,2024.0,estimable,3.5275614501149337,0.6416444731257166,19.39343406749628,0.1471380280476413,1.260606824894995,0.869554966203091,1.0,True,False
+meat,trimethoprim,25,9,9,6,8,2012.0,2024.0,estimable,44.63615597871367,0.1072821568352176,18571.461269335825,0.2170118185684703,3.798544202777285,3.0769577236021,1.0,True,False
+meat,tylosin,13,9,9,7,9,2008.0,2026.0,estimable,31.34574990920219,7.309147962789217,134.42825926803377,3.5220731438137325e-06,3.445078688804151,0.7428326426499084,0.0003428151193312,True,True
+milk/dairy,amoxicillin,18,6,6,6,5,2014.0,2023.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,ampicillin,4,4,4,4,3,2016.0,2018.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,azithromycin,1,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,benzylpenicillin,1,1,1,1,1,2021.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,cefalexin,5,5,5,5,4,2016.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,ceftriaxone,5,1,1,1,1,2014.0,2014.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,chloramphenicol,35,11,11,7,8,2004.0,2018.0,estimable,26.392911736427468,0.0284134143221104,24516.08884556999,0.3478696661396576,3.273095479268787,3.486729280261929,1.0,True,False
+milk/dairy,chlortetracycline,17,10,10,8,7,2007.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,ciprofloxacin,26,12,12,7,6,2014.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,clarithromycin,1,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,cloxacillin,6,3,3,3,3,2016.0,2021.0,rank_deficient,,,,,,,,False,False
+milk/dairy,colistin,1,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,danofloxacin,3,3,3,3,3,2014.0,2018.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,doxycycline,7,5,5,4,4,2012.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,enrofloxacin,27,13,13,9,9,2011.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,erythromycin,1,1,1,1,1,2008.0,2008.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,florfenicol,4,3,3,2,3,2016.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,flumequine,5,3,3,3,3,2011.0,2021.0,point_only_collapsed_cluster_variance,0.8625216123813796,,,,-0.1478950725570809,,,False,False
+milk/dairy,gamithromycin,3,1,1,1,1,2021.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,gentamicin,17,11,11,7,8,2003.0,2024.0,estimable,3.067381846488518,0.3720236855442546,25.29094721053203,0.297721765873269,1.120824379008944,1.0763378239423196,1.0,True,False
+milk/dairy,kanamycin,1,1,1,1,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,lasalocid,1,1,1,1,1,2019.0,2019.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,lincomycin,22,7,7,6,6,2008.0,2021.0,estimable,0.5644701982648418,0.316051023812573,1.0081492566785804,0.0532889473322465,-0.5718676899395412,0.2959101636371901,1.0,False,False
+milk/dairy,lomefloxacin,1,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,marbofloxacin,3,3,3,3,3,2016.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,minocycline,1,1,1,1,1,2021.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,monensin,5,2,2,1,1,2019.0,2019.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,neomycin,6,5,5,3,4,2006.0,2024.0,estimable,1.06388020267664,0.6712135259257646,1.6862608423842596,0.79216019082834,0.0619227931112341,0.2349952884119361,1.0,True,False
+milk/dairy,nitrofurazone,2,1,1,1,1,2022.0,2022.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,norfloxacin,3,3,3,2,3,2016.0,2020.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,ofloxacin,12,4,4,2,3,2016.0,2021.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,oxytetracycline,62,23,23,13,11,2007.0,2023.0,estimable,0.6093939863057086,0.1014024097580356,3.6622505464287896,0.5882936058391712,-0.4952902807008989,0.9149837461910147,1.0,False,False
+milk/dairy,penicillin,5,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,roxithromycin,1,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,salinomycin,1,1,1,1,1,2019.0,2019.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,spectinomycin,2,2,2,2,1,2018.0,2018.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,spiramycin,7,4,4,3,3,2008.0,2021.0,estimable,0.6893615585181728,0.2057497713421039,2.309695681617299,0.5465038555255664,-0.3719893872342003,0.616890389556058,1.0,False,False
+milk/dairy,streptomycin,17,10,10,7,10,2003.0,2024.0,complete_or_quasi_separation,,,,,,,,False,False
+milk/dairy,sulfadiazine,4,3,3,3,2,2016.0,2021.0,rank_deficient,,,,,,,,False,False
+milk/dairy,sulfadimethoxine,2,2,2,2,2,2016.0,2021.0,rank_deficient,,,,,,,,False,False
+milk/dairy,sulfadoxine,1,1,1,1,1,2021.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,sulfaguanidine,1,1,1,1,1,2021.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,sulfamerazine,3,3,3,3,2,2016.0,2021.0,point_only_collapsed_cluster_variance,5.66667810285575,,,,1.7346030735370843,,,True,False
+milk/dairy,sulfamethazine,35,9,9,5,6,2010.0,2021.0,estimable,0.0794148284849014,0.0046551737186121,1.354775431488413,0.0800829023844443,-2.533070171429122,1.4472989177584874,1.0,False,False
+milk/dairy,sulfamethoxazole,9,3,3,3,3,2016.0,2020.0,rank_deficient,,,,,,,,False,False
+milk/dairy,sulfamonomethoxine,1,1,1,1,1,2021.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,sulfapyridine,1,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,sulfaquinoxaline,1,1,1,1,1,2021.0,2021.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,sulfathiazole,2,2,2,2,2,2016.0,2021.0,rank_deficient,,,,,,,,False,False
+milk/dairy,tetracycline,150,42,42,20,18,2004.0,2025.0,estimable,0.4743834465652041,0.2898857737395169,0.7763045818774673,0.00300094909109,-0.7457393253197123,0.2512903020057582,0.1421474657524221,False,False
+milk/dairy,thiamphenicol,1,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+milk/dairy,tilmicosin,7,4,4,3,3,2008.0,2021.0,estimable,0.3676537301327244,0.1419340878405683,0.9523382813601408,0.0393444675047296,-1.0006137345115316,0.4856014105951493,0.957382042615087,False,False
+milk/dairy,trimethoprim,15,9,9,6,6,2012.0,2021.0,estimable,20.5322467081164,2.24599947571384,187.69957849120576,0.0074352332229794,3.0219966604117823,1.1290030803707236,0.255286461332919,True,False
+milk/dairy,tylosin,7,7,7,6,5,2008.0,2021.0,estimable,0.4820058246603272,0.295742204877148,0.785581534103299,0.0034076447269416,-0.7297990806470267,0.2492183943671244,0.1421474657524221,False,False
+other animal-derived foods,amoxicillin,5,2,2,2,2,1998.0,2019.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,ampicillin,8,3,3,3,3,1998.0,2018.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,apramycin,1,1,1,1,1,2002.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,benzylpenicillin,1,1,1,1,1,2009.0,2009.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,cefalexin,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,ceftiofur,13,2,2,2,2,2002.0,2016.0,point_only_collapsed_cluster_variance,31.9686130547216,,,,3.464754579419451,,,True,False
+other animal-derived foods,chloramphenicol,32,9,9,4,5,1998.0,2022.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,chlortetracycline,4,2,2,2,2,2002.0,2019.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,ciprofloxacin,6,2,2,1,2,2018.0,2020.0,point_only_collapsed_cluster_variance,0.0005023184950563,,,,-7.59627618714876,,,False,False
+other animal-derived foods,clindamycin,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,cloxacillin,1,1,1,1,1,2002.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,colistin,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,difloxacin,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,dihydrostreptomycin,2,2,2,2,2,2002.0,2008.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,doxycycline,4,2,2,2,2,1998.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,enrofloxacin,6,2,2,1,2,2018.0,2020.0,point_only_collapsed_cluster_variance,0.0107771282624419,,,,-4.530329143940445,,,False,False
+other animal-derived foods,erythromycin,13,4,4,4,4,1998.0,2009.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,florfenicol,14,2,2,2,2,1998.0,2016.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,flumequine,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,furaltadone,4,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,furazolidone,4,1,1,1,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,gentamicin,14,4,4,4,5,1998.0,2013.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,kasugamycin,1,1,1,1,1,2024.0,2024.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,lincomycin,12,3,3,3,4,1998.0,2009.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,lomefloxacin,4,1,1,1,1,2020.0,2020.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,nalidixic acid,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,neomycin,8,3,3,3,3,1998.0,2008.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,nitrofurazone,2,1,1,1,1,2022.0,2022.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,norfloxacin,7,2,2,2,2,1998.0,2020.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,ofloxacin,7,2,2,2,2,1998.0,2020.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,oxytetracycline,7,4,4,4,3,2002.0,2019.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,penicillin,13,2,2,2,1,2016.0,2016.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,spiramycin,4,2,2,2,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,streptomycin,3,2,2,2,2,2002.0,2013.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,sulfadiazine,7,3,3,3,3,2002.0,2022.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,sulfadoxine,1,1,1,1,1,2002.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,sulfamerazine,1,1,1,1,1,2002.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,sulfamethazine,1,1,1,1,1,2002.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,sulfapyridine,3,2,2,2,2,2002.0,2018.0,rank_deficient,,,,,,,,False,False
+other animal-derived foods,sulfaquinoxaline,1,1,1,1,1,2002.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,sulfathiazole,1,1,1,1,1,2002.0,2002.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,tetracycline,24,6,6,6,4,2002.0,2019.0,estimable,1.0609991072556617,0.2633552673503069,4.274526638192939,0.9336254498739064,0.0592110182136423,0.7109501786409232,1.0,True,False
+other animal-derived foods,thiamphenicol,3,1,1,1,1,1998.0,1998.0,constant_or_no_time_variation,,,,,,,,False,False
+other animal-derived foods,tilmicosin,21,4,4,4,5,1998.0,2016.0,estimable,29.64258634762305,12.388558442113435,70.92697100167119,2.654880218596053e-14,3.389212055312804,0.4451217933359536,7.752250238300476e-12,True,True
+other animal-derived foods,trimethoprim,6,2,2,1,2,1998.0,2012.0,complete_or_quasi_separation,,,,,,,,False,False
+other animal-derived foods,tylosin,12,4,4,4,5,1998.0,2019.0,complete_or_quasi_separation,,,,,,,,False,False
